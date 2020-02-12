@@ -38,8 +38,6 @@ public class HomeController implements Initializable {
     
     @Override
     public void initialize(URL url, ResourceBundle rb) {
-        // TODO
-        
          refreshNodes();
     }    
     
@@ -52,7 +50,7 @@ public class HomeController implements Initializable {
         for(int i = 0; i<10; i++)
         {
             try {
-                nodes[i] = (Node)FXMLLoader.load(getClass().getResource("Item.fxml"));
+                nodes[i] = (Node)FXMLLoader.load(getClass().getClassLoader().getResource("Item.fxml"));
                pnl_scroll.getChildren().add(nodes[i]);
                 
             } catch (IOException ex) {

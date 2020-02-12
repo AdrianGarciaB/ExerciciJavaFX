@@ -19,7 +19,7 @@ public class DrapoDashboard extends Application {
     
     @Override
     public void start(Stage stage) throws Exception {
-        Parent root = FXMLLoader.load(getClass().getResource("Home.fxml"));
+        Parent root = FXMLLoader.load(getClass().getClassLoader().getResource("Home.fxml"));
         
         Scene scene = new Scene(root);
         

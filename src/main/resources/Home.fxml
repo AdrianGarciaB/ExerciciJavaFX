@@ -14,7 +14,7 @@
 <?import javafx.scene.layout.VBox?>
 <?import javafx.scene.text.Font?>
 
-<AnchorPane id="AnchorPane" nodeOrientation="LEFT_TO_RIGHT" prefHeight="623.0" prefWidth="1271.0" style="-fx-background-color: #fff;" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="dashboard.HomeController">
+<AnchorPane id="AnchorPane" nodeOrientation="LEFT_TO_RIGHT" prefHeight="623.0" prefWidth="1271.0" style="-fx-background-color: #fff;" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="dashboard.HomeController">
    <children>
       <Pane layoutX="-2.0" prefHeight="145.0" prefWidth="1062.0" styleClass="head-background" stylesheets="@style.css" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
          <children>
@@ -58,7 +58,7 @@
                <graphic>
                   <ImageView accessibleText="Project List" fitHeight="16.0" fitWidth="144.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@dashboard/images/projects.png" />
+                        <Image url="@images/projects.png" />
                      </image>
                   </ImageView>
                </graphic>
@@ -76,7 +76,7 @@
                <graphic>
                   <ImageView fitHeight="16.0" fitWidth="16.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@dashboard/images/reliabilty.png" />
+                        <Image url="@images/reliabilty.png" />
                      </image>
                   </ImageView>
                </graphic>
@@ -91,7 +91,7 @@
                <graphic>
                   <ImageView fitHeight="16.0" fitWidth="16.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@dashboard/images/projections.png" />
+                        <Image url="@images/projections.png" />
                      </image>
                      <viewport>
                         <Rectangle2D />
@@ -117,7 +117,7 @@
                <graphic>
                   <ImageView accessibleText="Project List" fitHeight="16.0" fitWidth="144.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@dashboard/images/icons8_Workflow_64px.png" />
+                        <Image url="@images/icons8_Workflow_64px.png" />
                      </image>
                   </ImageView>
                </graphic>
@@ -132,7 +132,7 @@
                <graphic>
                   <ImageView accessibleText="Project List" fitHeight="16.0" fitWidth="144.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@dashboard/images/icons8_US_Dollar_64px.png" />
+                        <Image url="@images/icons8_US_Dollar_64px.png" />
                      </image>
                   </ImageView>
                </graphic>
@@ -147,7 +147,7 @@
                <graphic>
                   <ImageView fitHeight="16.0" fitWidth="16.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@dashboard/images/agencies.png" />
+                        <Image url="@images/agencies.png" />
                      </image>
                   </ImageView>
                </graphic>
@@ -162,7 +162,7 @@
                <graphic>
                   <ImageView fitHeight="16.0" fitWidth="16.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@dashboard/images/icons8_Share_64px.png" />
+                        <Image url="@images/icons8_Share_64px.png" />
                      </image>
                      <viewport>
                         <Rectangle2D />
@@ -179,7 +179,7 @@
          <children>
             <ImageView fitHeight="120.0" fitWidth="139.0" layoutX="11.0" layoutY="5.0" pickOnBounds="true" preserveRatio="true">
                <image>
-                  <Image url="@dashboard/images/logo.png" />
+                  <Image url="@images/logo.png" />
                </image>
             </ImageView>
          </children>

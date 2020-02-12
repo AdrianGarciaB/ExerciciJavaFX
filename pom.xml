@@ -29,6 +29,11 @@
             <artifactId>jfoenix</artifactId>
             <version>9.0.8</version>
         </dependency>
+        <dependency>
+            <groupId>org.glassfish.jaxb</groupId>
+            <artifactId>jaxb-runtime</artifactId>
+            <version>2.3.2</version>
+        </dependency>
     </dependencies>
     <build>
         <plugins>

@@ -1,17 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<?import javafx.geometry.Insets?>
 <?import javafx.scene.chart.BarChart?>
 <?import javafx.scene.chart.CategoryAxis?>
 <?import javafx.scene.chart.NumberAxis?>
+<?import javafx.scene.control.Button?>
 <?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
 <?import javafx.scene.control.ScrollPane?>
 <?import javafx.scene.control.Tab?>
 <?import javafx.scene.control.TabPane?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.ImageView?>
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.layout.ColumnConstraints?>
 <?import javafx.scene.layout.GridPane?>
 <?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.RowConstraints?>
 <?import javafx.scene.layout.VBox?>
+<?import javafx.scene.media.MediaView?>
 <?import javafx.scene.text.Font?>
 
 <AnchorPane fx:id="ap" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="1026.0" prefWidth="1280.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.pratikadrian.controler.Controller">
@@ -22,16 +31,16 @@
                <content>
                   <VBox fx:id="vbox1" prefHeight="1059.0" prefWidth="1280.0">
                      <children>
-                        <Label alignment="CENTER" contentDisplay="CENTER" prefHeight="34.0" prefWidth="1282.0" text="Inici">
+                        <Label alignment="CENTER" contentDisplay="CENTER" prefHeight="34.0" prefWidth="1282.0" text="Inici" textFill="#2b07f5" underline="true">
                            <font>
-                              <Font size="27.0" />
+                              <Font name="Gentium Book Basic Bold" size="35.0" />
                            </font>
                         </Label>
                         <ScrollPane minHeight="646.0" prefHeight="937.0" prefWidth="1280.0">
                            <content>
                               <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="924.0" prefWidth="1273.0">
                                  <children>
-                                    <GridPane fx:id="pelisGrid" prefHeight="815.0" prefWidth="1263.0">
+                                    <GridPane fx:id="pelisGrid" layoutX="5.0" layoutY="-9.0" prefHeight="815.0" prefWidth="1263.0">
                                       <columnConstraints>
                                           <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
                                           <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
@@ -50,9 +59,161 @@
                   </VBox>
                </content>
         </Tab>
-            <Tab text="Untitled Tab">
+            <Tab text="Pelicula">
               <content>
-                <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="1075.0" />
+                <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                     <children>
+                        <VBox alignment="CENTER" maxHeight="996.0" maxWidth="1280.0" minHeight="0.0" minWidth="0.0" prefHeight="996.0" prefWidth="1280.0" AnchorPane.bottomAnchor="1.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                           <children>
+                              <Label fx:id="titoltop" alignment="CENTER" contentDisplay="CENTER" prefHeight="17.0" prefWidth="1256.0" text="Titulo de película" textFill="#2b07f5" underline="true">
+                                 <font>
+                                    <Font name="Gentium Book Basic Bold Italic" size="35.0" />
+                                 </font></Label>
+                              <GridPane prefHeight="480.0" prefWidth="1280.0">
+                                <columnConstraints>
+                                    <ColumnConstraints hgrow="SOMETIMES" maxWidth="466.0" minWidth="10.0" prefWidth="117.0" />
+                                    <ColumnConstraints hgrow="SOMETIMES" maxWidth="466.0" minWidth="0.0" prefWidth="340.0" />
+                                  <ColumnConstraints hgrow="SOMETIMES" maxWidth="731.0" minWidth="10.0" prefWidth="376.0" />
+                                  <ColumnConstraints hgrow="SOMETIMES" maxWidth="568.0" minWidth="10.0" prefWidth="332.0" />
+                                    <ColumnConstraints hgrow="SOMETIMES" maxWidth="159.0" minWidth="10.0" prefWidth="116.0" />
+                                </columnConstraints>
+                                <rowConstraints>
+                                    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                </rowConstraints>
+                                 <children>
+                                    <ImageView fx:id="peliculasImageView" fitHeight="400.0" fitWidth="328.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="1" />
+                                    <VBox alignment="CENTER_LEFT" prefHeight="200.0" prefWidth="100.0" GridPane.columnIndex="3">
+                                       <children>
+                                          <Label fx:id="titol" text="Titol">
+                                             <padding>
+                                                <Insets left="20.0" />
+                                             </padding>
+                                             <font>
+                                                <Font name="Amiri" size="18.0" />
+                                             </font></Label>
+                                          <Label fx:id="situacio" text="Situacio">
+                                             <font>
+                                                <Font name="Amiri" size="18.0" />
+                                             </font>
+                                             <padding>
+                                                <Insets left="20.0" />
+                                             </padding></Label>
+                                          <Label fx:id="any" text="Any">
+                                             <padding>
+                                                <Insets left="20.0" />
+                                             </padding>
+                                             <font>
+                                                <Font name="Amiri" size="18.0" />
+                                             </font></Label>
+                                          <Label fx:id="titolOriginal" text="Titol original">
+                                             <padding>
+                                                <Insets left="20.0" />
+                                             </padding>
+                                             <font>
+                                                <Font name="Amiri" size="18.0" />
+                                             </font></Label>
+                                          <Label fx:id="direccio" text="Direccio" wrapText="true">
+                                             <padding>
+                                                <Insets left="20.0" />
+                                             </padding>
+                                             <font>
+                                                <Font name="Amiri" size="18.0" />
+                                             </font></Label>
+                                          <Label fx:id="interprets" text="Interprets">
+                                             <padding>
+                                                <Insets left="20.0" />
+                                             </padding>
+                                             <font>
+                                                <Font name="Amiri" size="18.0" />
+                                             </font></Label>
+                                          <Label fx:id="versio" text="Versio">
+                                             <padding>
+                                                <Insets left="20.0" />
+                                             </padding>
+                                             <font>
+                                                <Font name="Amiri" size="18.0" />
+                                             </font></Label>
+                                          <Label fx:id="idioma" text="Idioma">
+                                             <padding>
+                                                <Insets left="20.0" />
+                                             </padding>
+                                             <font>
+                                                <Font name="Amiri" size="18.0" />
+                                             </font></Label>
+                                          <Label fx:id="descripcio" layoutX="10.0" layoutY="315.0" text="Descripcion">
+                                             <padding>
+                                                <Insets left="20.0" />
+                                             </padding>
+                                             <font>
+                                                <Font name="Amiri" size="18.0" />
+                                             </font></Label>
+                                       </children>
+                                       <GridPane.margin>
+                                          <Insets />
+                                       </GridPane.margin>
+                                    </VBox>
+                                    <MediaView fx:id="peliculasMediaView" fitHeight="200.0" fitWidth="200.0" nodeOrientation="INHERIT" GridPane.columnIndex="2" />
+                                 </children>
+                              </GridPane>
+                              <GridPane prefHeight="295.0" prefWidth="1280.0">
+                                 <columnConstraints>
+                                    <ColumnConstraints hgrow="SOMETIMES" maxWidth="466.0" minWidth="10.0" prefWidth="125.0" />
+                                    <ColumnConstraints hgrow="SOMETIMES" maxWidth="685.0" minWidth="0.0" prefWidth="488.0" />
+                                    <ColumnConstraints hgrow="SOMETIMES" maxWidth="537.0" minWidth="10.0" prefWidth="90.0" />
+                                    <ColumnConstraints hgrow="SOMETIMES" maxWidth="568.0" minWidth="10.0" prefWidth="494.0" />
+                                    <ColumnConstraints hgrow="SOMETIMES" maxWidth="159.0" minWidth="10.0" prefWidth="126.0" />
+                                 </columnConstraints>
+                                 <rowConstraints>
+                                    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                 </rowConstraints>
+                                 <children>
+                                    <VBox prefHeight="200.0" prefWidth="100.0" GridPane.columnIndex="3">
+                                       <children>
+                                          <Label alignment="BOTTOM_LEFT" prefHeight="45.0" prefWidth="115.0" text="Nombre de la session" />
+                                          <TableView fx:id="sessionsTable" prefHeight="213.0" prefWidth="486.0">
+                                            <columns>
+                                              <TableColumn fx:id="titolColumn" prefWidth="176.0" text="Titol" />
+                                              <TableColumn fx:id="dataColumn" minWidth="3.0" prefWidth="89.0" text="Data" />
+                                                <TableColumn fx:id="localitatColumn" prefWidth="111.0" text="Localitat" />
+                                                <TableColumn fx:id="comarcaColumn" prefWidth="109.0" text="Comarca" />
+                                            </columns>
+                                          </TableView>
+                                       </children>
+                                    </VBox>
+                                    <VBox prefHeight="200.0" prefWidth="100.0" GridPane.columnIndex="1">
+                                       <children>
+                                          <Label text="Nombre del cine" />
+                                          <HBox prefHeight="29.0" prefWidth="479.0">
+                                             <children>
+                                                <TextField />
+                                                <Button mnemonicParsing="false" text="🔍">
+                                                   <HBox.margin>
+                                                      <Insets left="10.0" />
+                                                   </HBox.margin>
+                                                </Button>
+                                             </children>
+                                          </HBox>
+                                          <ListView fx:id="cinemesListView" prefHeight="211.0" prefWidth="510.0" />
+                                       </children>
+                                    </VBox>
+                                 </children>
+                              </GridPane>
+                              <GridPane prefHeight="122.0" prefWidth="1280.0">
+                                <columnConstraints>
+                                    <ColumnConstraints hgrow="SOMETIMES" maxWidth="422.0" minWidth="0.0" prefWidth="111.0" />
+                                  <ColumnConstraints hgrow="SOMETIMES" maxWidth="1086.0" minWidth="10.0" prefWidth="1047.0" />
+                                  <ColumnConstraints hgrow="SOMETIMES" maxWidth="149.0" minWidth="10.0" prefWidth="115.0" />
+                                </columnConstraints>
+                                <rowConstraints>
+                                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                </rowConstraints>
+                                 <children>
+                                    <HBox fx:id="hBoxCicles" alignment="CENTER" prefHeight="100.0" prefWidth="200.0" GridPane.columnIndex="1" />
+                                 </children>
+                              </GridPane>
+                           </children>
+                        </VBox>
+                     </children></AnchorPane>
               </content>
             </Tab>
         <Tab text="BarChart">
@@ -67,6 +228,11 @@
             </BarChart>
           </content>
         </Tab>
+            <Tab text="PierChart">
+              <content>
+                <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="1075.0" />
+              </content>
+            </Tab>
       </tabs>
     </TabPane>
   </children>

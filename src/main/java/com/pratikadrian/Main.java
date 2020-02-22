@@ -23,7 +23,6 @@ public class Main extends Application  {
         Cinemes cines = JAXB.unmarshal("http://gencat.cat/llengua/cinema/cinemes.xml", Cinemes.class);
         Sessions session = JAXB.unmarshal("http://gencat.cat/llengua/cinema/film_sessions.xml", Sessions.class);
 
-
     }
 
     @Override

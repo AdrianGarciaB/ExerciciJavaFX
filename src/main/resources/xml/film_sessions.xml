@@ -1,0 +1,5043 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="film_sessions.xsd" generated="2020-02-21T17:45:40">
+<SESSIONS>
+<IDFILM>33325</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37177</CINEID>
+<TITOL>Zibila i el poder de les ratlles</TITOL>
+<ses_data>21/02/2020</ses_data>
+<CINENOM>JCA Cinemes Tarragona - Valls</CINENOM>
+<LOCALITAT>Valls</LOCALITAT>
+<COMARCA>Alt Camp</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200221</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33282</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37171</CINEID>
+<TITOL>Sense sostre</TITOL>
+<ses_data>21/02/2020</ses_data>
+<CINENOM>Cines Imperial de Sabadell</CINENOM>
+<LOCALITAT>Sabadell</LOCALITAT>
+<COMARCA>Vallès Occidental</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VO</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200221</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33262</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37203</CINEID>
+<TITOL>Operació Panda</TITOL>
+<ses_data>21/02/2020</ses_data>
+<CINENOM>Palau Balaña Multicines</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200221</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33262</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37160</CINEID>
+<TITOL>Operació Panda</TITOL>
+<ses_data>21/02/2020</ses_data>
+<CINENOM>Ocine Girona</CINENOM>
+<LOCALITAT>Girona</LOCALITAT>
+<COMARCA>Gironès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200221</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33380</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37153</CINEID>
+<TITOL>El viatge de Mastorna de Federico Fellini. Un experiment de reconstrucció</TITOL>
+<ses_data>21/02/2020</ses_data>
+<CINENOM>Filmoteca de Catalunya</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VOSC</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200221</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33372</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37406</CINEID>
+<TITOL>Les bones intencions</TITOL>
+<ses_data>21/02/2020</ses_data>
+<CINENOM>Cinemes Texas</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VOSC</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200221</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32199</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37406</CINEID>
+<TITOL>Canvi de reines</TITOL>
+<ses_data>21/02/2020</ses_data>
+<CINENOM>Cinemes Texas</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VOSC</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200221</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33262</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37164</CINEID>
+<TITOL>Operació Panda</TITOL>
+<ses_data>21/02/2020</ses_data>
+<CINENOM>Cines Bages Centre de Manresa</CINENOM>
+<LOCALITAT>Manresa</LOCALITAT>
+<COMARCA>Bages</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200221</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33366</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37406</CINEID>
+<TITOL>Amazing Grace</TITOL>
+<ses_data>21/02/2020</ses_data>
+<CINENOM>Cinemes Texas</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VOSC</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200221</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32542</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37406</CINEID>
+<TITOL>Els dies que vindran</TITOL>
+<ses_data>21/02/2020</ses_data>
+<CINENOM>Cinemes Texas</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VO</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200221</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33325</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37187</CINEID>
+<TITOL>Zibila i el poder de les ratlles</TITOL>
+<ses_data>21/02/2020</ses_data>
+<CINENOM>CineBaix de Sant Feliu de Llobregat</CINENOM>
+<LOCALITAT>Sant Feliu de Llobregat</LOCALITAT>
+<COMARCA>Baix Llobregat</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200221</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33384</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37406</CINEID>
+<TITOL>Curiosa</TITOL>
+<ses_data>21/02/2020</ses_data>
+<CINENOM>Cinemes Texas</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VOSC</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200221</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33283</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37219</CINEID>
+<TITOL>Volant junts</TITOL>
+<ses_data>21/02/2020</ses_data>
+<CINENOM>Cinemes Illa Carlemany de Les Escaldes</CINENOM>
+<LOCALITAT>Escaldes-Engordany</LOCALITAT>
+<COMARCA>Escaldes-Engordany</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200221</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33364</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37740</CINEID>
+<TITOL>La batalla de la memòria</TITOL>
+<ses_data>21/02/2020</ses_data>
+<CINENOM>Cinéma René Vautier d'Elna</CINENOM>
+<LOCALITAT>Elna</LOCALITAT>
+<COMARCA>Occitània</COMARCA>
+<CICLEID>57257</CICLEID>
+<ver>VO</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200221</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32605</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37307</CINEID>
+<TITOL>Chris el suís</TITOL>
+<ses_data>21/02/2020</ses_data>
+<CINENOM>Sala El Mirador de Castellar del Vallès</CINENOM>
+<LOCALITAT>Castellar del Vallès</LOCALITAT>
+<COMARCA>Vallès Occidental</COMARCA>
+<CICLEID>57142</CICLEID>
+<ver>VOSC</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200221</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32605</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37521</CINEID>
+<TITOL>Chris el suís</TITOL>
+<ses_data>21/02/2020</ses_data>
+<CINENOM>Biblioteca Singuerlin - Salvador Cabré de Santa Coloma de Gramenet</CINENOM>
+<LOCALITAT>Santa Coloma de Gramenet</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>57142</CICLEID>
+<ver>VOSC</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200221</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33329</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37347</CINEID>
+<TITOL>Sameblod (Sami Blood)</TITOL>
+<ses_data>21/02/2020</ses_data>
+<CINENOM>Cineclub Altafulla Link - Sala Teresa Manero</CINENOM>
+<LOCALITAT>Altafulla</LOCALITAT>
+<COMARCA>Tarragonès</COMARCA>
+<CICLEID>57261</CICLEID>
+<ver>VOSC</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200221</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33325</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37274</CINEID>
+<TITOL>Zibila i el poder de les ratlles</TITOL>
+<ses_data>22/02/2020</ses_data>
+<CINENOM>Zumzeig Cinecooperativa</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200222</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33262</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37162</CINEID>
+<TITOL>Operació Panda</TITOL>
+<ses_data>22/02/2020</ses_data>
+<CINENOM>JCA Cinemes Lleida - Alpicat</CINENOM>
+<LOCALITAT>Alpicat</LOCALITAT>
+<COMARCA>Segrià</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200222</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33283</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37178</CINEID>
+<TITOL>Volant junts</TITOL>
+<ses_data>22/02/2020</ses_data>
+<CINENOM>Multicines Sucre de Vic</CINENOM>
+<LOCALITAT>Vic</LOCALITAT>
+<COMARCA>Osona</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200222</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33325</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37162</CINEID>
+<TITOL>Zibila i el poder de les ratlles</TITOL>
+<ses_data>22/02/2020</ses_data>
+<CINENOM>JCA Cinemes Lleida - Alpicat</CINENOM>
+<LOCALITAT>Alpicat</LOCALITAT>
+<COMARCA>Segrià</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200222</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33262</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37160</CINEID>
+<TITOL>Operació Panda</TITOL>
+<ses_data>22/02/2020</ses_data>
+<CINENOM>Ocine Girona</CINENOM>
+<LOCALITAT>Girona</LOCALITAT>
+<COMARCA>Gironès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200222</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33283</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37219</CINEID>
+<TITOL>Volant junts</TITOL>
+<ses_data>22/02/2020</ses_data>
+<CINENOM>Cinemes Illa Carlemany de Les Escaldes</CINENOM>
+<LOCALITAT>Escaldes-Engordany</LOCALITAT>
+<COMARCA>Escaldes-Engordany</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200222</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33262</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37203</CINEID>
+<TITOL>Operació Panda</TITOL>
+<ses_data>22/02/2020</ses_data>
+<CINENOM>Palau Balaña Multicines</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200222</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33262</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37164</CINEID>
+<TITOL>Operació Panda</TITOL>
+<ses_data>22/02/2020</ses_data>
+<CINENOM>Cines Bages Centre de Manresa</CINENOM>
+<LOCALITAT>Manresa</LOCALITAT>
+<COMARCA>Bages</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200222</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33325</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37177</CINEID>
+<TITOL>Zibila i el poder de les ratlles</TITOL>
+<ses_data>22/02/2020</ses_data>
+<CINENOM>JCA Cinemes Tarragona - Valls</CINENOM>
+<LOCALITAT>Valls</LOCALITAT>
+<COMARCA>Alt Camp</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200222</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33219</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37193</CINEID>
+<TITOL>La innocència</TITOL>
+<ses_data>22/02/2020</ses_data>
+<CINENOM>Cinema Casal d'Agramunt</CINENOM>
+<LOCALITAT>Agramunt</LOCALITAT>
+<COMARCA>Urgell</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VO</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200222</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33197</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37406</CINEID>
+<TITOL>Quackers: La llegenda dels ànecs</TITOL>
+<ses_data>22/02/2020</ses_data>
+<CINENOM>Cinemes Texas</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200222</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32653</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37156</CINEID>
+<TITOL>Star Wars: L'ascens de Skywalker</TITOL>
+<ses_data>22/02/2020</ses_data>
+<CINENOM>Cines FULL de Cornellà de Llobregat</CINENOM>
+<LOCALITAT>Cornellà de Llobregat</LOCALITAT>
+<COMARCA>Baix Llobregat</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200222</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33372</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37406</CINEID>
+<TITOL>Les bones intencions</TITOL>
+<ses_data>22/02/2020</ses_data>
+<CINENOM>Cinemes Texas</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VOSC</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200222</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32199</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37406</CINEID>
+<TITOL>Canvi de reines</TITOL>
+<ses_data>22/02/2020</ses_data>
+<CINENOM>Cinemes Texas</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VOSC</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200222</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33366</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37406</CINEID>
+<TITOL>Amazing Grace</TITOL>
+<ses_data>22/02/2020</ses_data>
+<CINENOM>Cinemes Texas</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VOSC</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200222</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33325</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37147</CINEID>
+<TITOL>Zibila i el poder de les ratlles</TITOL>
+<ses_data>22/02/2020</ses_data>
+<CINENOM>Cinemes Girona</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200222</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33325</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37187</CINEID>
+<TITOL>Zibila i el poder de les ratlles</TITOL>
+<ses_data>22/02/2020</ses_data>
+<CINENOM>CineBaix de Sant Feliu de Llobregat</CINENOM>
+<LOCALITAT>Sant Feliu de Llobregat</LOCALITAT>
+<COMARCA>Baix Llobregat</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200222</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33308</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37153</CINEID>
+<TITOL>Sunrise: A Song of Two Humans</TITOL>
+<ses_data>22/02/2020</ses_data>
+<CINENOM>Filmoteca de Catalunya</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VOSC</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200222</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>30717</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37153</CINEID>
+<TITOL>Gats. Un viatge de tornada a casa</TITOL>
+<ses_data>22/02/2020</ses_data>
+<CINENOM>Filmoteca de Catalunya</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200222</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32824</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37189</CINEID>
+<TITOL>Basia</TITOL>
+<ses_data>22/02/2020</ses_data>
+<CINENOM>Cinema Catalunya de Terrassa</CINENOM>
+<LOCALITAT>Terrassa</LOCALITAT>
+<COMARCA>Vallès Occidental</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200222</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>29392</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37674</CINEID>
+<TITOL>Neu i els arbres màgics</TITOL>
+<ses_data>22/02/2020</ses_data>
+<CINENOM>Teatre del Raval de Gandia</CINENOM>
+<LOCALITAT>Gandia</LOCALITAT>
+<COMARCA>València</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200222</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32575</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37214</CINEID>
+<TITOL>Toy Story 4</TITOL>
+<ses_data>22/02/2020</ses_data>
+<CINENOM>Atrium Cines de Sant Andreu de la Barca</CINENOM>
+<LOCALITAT>Sant Andreu de la Barca</LOCALITAT>
+<COMARCA>Baix Llobregat</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200222</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32542</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37406</CINEID>
+<TITOL>Els dies que vindran</TITOL>
+<ses_data>22/02/2020</ses_data>
+<CINENOM>Cinemes Texas</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VO</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200222</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33041</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37156</CINEID>
+<TITOL>Espies disfressats</TITOL>
+<ses_data>22/02/2020</ses_data>
+<CINENOM>Cines FULL de Cornellà de Llobregat</CINENOM>
+<LOCALITAT>Cornellà de Llobregat</LOCALITAT>
+<COMARCA>Baix Llobregat</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200222</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33378</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37153</CINEID>
+<TITOL>Simbad i la princesa</TITOL>
+<ses_data>22/02/2020</ses_data>
+<CINENOM>Filmoteca de Catalunya</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VOSC</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200222</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33384</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37406</CINEID>
+<TITOL>Curiosa</TITOL>
+<ses_data>22/02/2020</ses_data>
+<CINENOM>Cinemes Texas</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VOSC</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200222</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32858</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37156</CINEID>
+<TITOL>Detectiu Conan: El puny de safir blau</TITOL>
+<ses_data>22/02/2020</ses_data>
+<CINENOM>Cines FULL de Cornellà de Llobregat</CINENOM>
+<LOCALITAT>Cornellà de Llobregat</LOCALITAT>
+<COMARCA>Baix Llobregat</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200222</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33325</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37182</CINEID>
+<TITOL>Zibila i el poder de les ratlles</TITOL>
+<ses_data>22/02/2020</ses_data>
+<CINENOM>Cines Verdi</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200222</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33309</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37156</CINEID>
+<TITOL>La Lur i l'Amets</TITOL>
+<ses_data>22/02/2020</ses_data>
+<CINENOM>Cines FULL de Cornellà de Llobregat</CINENOM>
+<LOCALITAT>Cornellà de Llobregat</LOCALITAT>
+<COMARCA>Baix Llobregat</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200222</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33262</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37192</CINEID>
+<TITOL>Operació Panda</TITOL>
+<ses_data>22/02/2020</ses_data>
+<CINENOM>Cine Era Audiovisuau de Vielha</CINENOM>
+<LOCALITAT>Vielha e Mijaran</LOCALITAT>
+<COMARCA>Aran</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200222</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33199</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37187</CINEID>
+<TITOL>I la lluita continua. Del camp a la construcció de Catalunya</TITOL>
+<ses_data>22/02/2020</ses_data>
+<CINENOM>CineBaix de Sant Feliu de Llobregat</CINENOM>
+<LOCALITAT>Sant Feliu de Llobregat</LOCALITAT>
+<COMARCA>Baix Llobregat</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VO</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200222</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33062</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37787</CINEID>
+<TITOL>Jacob, Mimi i els gossos del barri</TITOL>
+<ses_data>23/02/2020</ses_data>
+<CINENOM>Cinema Truffaut de Girona</CINENOM>
+<LOCALITAT>Girona</LOCALITAT>
+<COMARCA>Gironès</COMARCA>
+<CICLEID>57222</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200223</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33325</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37215</CINEID>
+<TITOL>Zibila i el poder de les ratlles</TITOL>
+<ses_data>23/02/2020</ses_data>
+<CINENOM>Cinemes Can Castellet de Sant Boi de Llobregat</CINENOM>
+<LOCALITAT>Sant Boi de Llobregat</LOCALITAT>
+<COMARCA>Baix Llobregat</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200223</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33325</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37187</CINEID>
+<TITOL>Zibila i el poder de les ratlles</TITOL>
+<ses_data>23/02/2020</ses_data>
+<CINENOM>CineBaix de Sant Feliu de Llobregat</CINENOM>
+<LOCALITAT>Sant Feliu de Llobregat</LOCALITAT>
+<COMARCA>Baix Llobregat</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200223</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33384</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37406</CINEID>
+<TITOL>Curiosa</TITOL>
+<ses_data>23/02/2020</ses_data>
+<CINENOM>Cinemes Texas</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VOSC</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200223</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>30717</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37153</CINEID>
+<TITOL>Gats. Un viatge de tornada a casa</TITOL>
+<ses_data>23/02/2020</ses_data>
+<CINENOM>Filmoteca de Catalunya</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200223</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33262</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37164</CINEID>
+<TITOL>Operació Panda</TITOL>
+<ses_data>23/02/2020</ses_data>
+<CINENOM>Cines Bages Centre de Manresa</CINENOM>
+<LOCALITAT>Manresa</LOCALITAT>
+<COMARCA>Bages</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200223</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33262</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37160</CINEID>
+<TITOL>Operació Panda</TITOL>
+<ses_data>23/02/2020</ses_data>
+<CINENOM>Ocine Girona</CINENOM>
+<LOCALITAT>Girona</LOCALITAT>
+<COMARCA>Gironès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200223</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33262</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37203</CINEID>
+<TITOL>Operació Panda</TITOL>
+<ses_data>23/02/2020</ses_data>
+<CINENOM>Palau Balaña Multicines</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200223</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33219</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37193</CINEID>
+<TITOL>La innocència</TITOL>
+<ses_data>23/02/2020</ses_data>
+<CINENOM>Cinema Casal d'Agramunt</CINENOM>
+<LOCALITAT>Agramunt</LOCALITAT>
+<COMARCA>Urgell</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VO</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200223</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33197</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37406</CINEID>
+<TITOL>Quackers: La llegenda dels ànecs</TITOL>
+<ses_data>23/02/2020</ses_data>
+<CINENOM>Cinemes Texas</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200223</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32653</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37156</CINEID>
+<TITOL>Star Wars: L'ascens de Skywalker</TITOL>
+<ses_data>23/02/2020</ses_data>
+<CINENOM>Cines FULL de Cornellà de Llobregat</CINENOM>
+<LOCALITAT>Cornellà de Llobregat</LOCALITAT>
+<COMARCA>Baix Llobregat</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200223</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>27258</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37742</CINEID>
+<TITOL>Ernest &amp; Celestine</TITOL>
+<ses_data>23/02/2020</ses_data>
+<CINENOM>Centre cultural de Malgrat de Mar</CINENOM>
+<LOCALITAT>Malgrat de Mar</LOCALITAT>
+<COMARCA>Maresme</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200223</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33366</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37406</CINEID>
+<TITOL>Amazing Grace</TITOL>
+<ses_data>23/02/2020</ses_data>
+<CINENOM>Cinemes Texas</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VOSC</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200223</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32542</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37406</CINEID>
+<TITOL>Els dies que vindran</TITOL>
+<ses_data>23/02/2020</ses_data>
+<CINENOM>Cinemes Texas</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VO</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200223</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33262</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37192</CINEID>
+<TITOL>Operació Panda</TITOL>
+<ses_data>23/02/2020</ses_data>
+<CINENOM>Cine Era Audiovisuau de Vielha</CINENOM>
+<LOCALITAT>Vielha e Mijaran</LOCALITAT>
+<COMARCA>Aran</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200223</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32199</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37406</CINEID>
+<TITOL>Canvi de reines</TITOL>
+<ses_data>23/02/2020</ses_data>
+<CINENOM>Cinemes Texas</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VOSC</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200223</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33372</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37406</CINEID>
+<TITOL>Les bones intencions</TITOL>
+<ses_data>23/02/2020</ses_data>
+<CINENOM>Cinemes Texas</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VOSC</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200223</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32684</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37194</CINEID>
+<TITOL>Solan &amp; Eri, missió a la Lluna</TITOL>
+<ses_data>23/02/2020</ses_data>
+<CINENOM>Cinema Casal Montblanquí</CINENOM>
+<LOCALITAT>Montblanc</LOCALITAT>
+<COMARCA>Conca de Barberà</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200223</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33325</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37147</CINEID>
+<TITOL>Zibila i el poder de les ratlles</TITOL>
+<ses_data>23/02/2020</ses_data>
+<CINENOM>Cinemes Girona</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200223</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33325</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37274</CINEID>
+<TITOL>Zibila i el poder de les ratlles</TITOL>
+<ses_data>23/02/2020</ses_data>
+<CINENOM>Zumzeig Cinecooperativa</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200223</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>31795</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37245</CINEID>
+<TITOL>Deixa que els nens petits...</TITOL>
+<ses_data>23/02/2020</ses_data>
+<CINENOM>Auditori La Plana de l'Om de Manresa</CINENOM>
+<LOCALITAT>Manresa</LOCALITAT>
+<COMARCA>Bages</COMARCA>
+<CICLEID>57261</CICLEID>
+<ver>VOSC</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200223</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33041</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37223</CINEID>
+<TITOL>Espies disfressats</TITOL>
+<ses_data>23/02/2020</ses_data>
+<CINENOM>Cine Goya de Mequinensa</CINENOM>
+<LOCALITAT>Mequinensa</LOCALITAT>
+<COMARCA>Saragossa</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200223</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33283</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37219</CINEID>
+<TITOL>Volant junts</TITOL>
+<ses_data>23/02/2020</ses_data>
+<CINENOM>Cinemes Illa Carlemany de Les Escaldes</CINENOM>
+<LOCALITAT>Escaldes-Engordany</LOCALITAT>
+<COMARCA>Escaldes-Engordany</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200223</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33041</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37156</CINEID>
+<TITOL>Espies disfressats</TITOL>
+<ses_data>23/02/2020</ses_data>
+<CINENOM>Cines FULL de Cornellà de Llobregat</CINENOM>
+<LOCALITAT>Cornellà de Llobregat</LOCALITAT>
+<COMARCA>Baix Llobregat</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200223</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33283</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37178</CINEID>
+<TITOL>Volant junts</TITOL>
+<ses_data>23/02/2020</ses_data>
+<CINENOM>Multicines Sucre de Vic</CINENOM>
+<LOCALITAT>Vic</LOCALITAT>
+<COMARCA>Osona</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200223</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33262</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37162</CINEID>
+<TITOL>Operació Panda</TITOL>
+<ses_data>23/02/2020</ses_data>
+<CINENOM>JCA Cinemes Lleida - Alpicat</CINENOM>
+<LOCALITAT>Alpicat</LOCALITAT>
+<COMARCA>Segrià</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200223</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32858</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37156</CINEID>
+<TITOL>Detectiu Conan: El puny de safir blau</TITOL>
+<ses_data>23/02/2020</ses_data>
+<CINENOM>Cines FULL de Cornellà de Llobregat</CINENOM>
+<LOCALITAT>Cornellà de Llobregat</LOCALITAT>
+<COMARCA>Baix Llobregat</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200223</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32605</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37246</CINEID>
+<TITOL>Chris el suís</TITOL>
+<ses_data>23/02/2020</ses_data>
+<CINENOM>Teatre de la Joventut Catòlica - La Peni de Molins de Rei</CINENOM>
+<LOCALITAT>Molins de Rei</LOCALITAT>
+<COMARCA>Baix Llobregat</COMARCA>
+<CICLEID>57142</CICLEID>
+<ver>VOSC</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200223</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33325</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37182</CINEID>
+<TITOL>Zibila i el poder de les ratlles</TITOL>
+<ses_data>23/02/2020</ses_data>
+<CINENOM>Cines Verdi</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200223</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33309</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37156</CINEID>
+<TITOL>La Lur i l'Amets</TITOL>
+<ses_data>23/02/2020</ses_data>
+<CINENOM>Cines FULL de Cornellà de Llobregat</CINENOM>
+<LOCALITAT>Cornellà de Llobregat</LOCALITAT>
+<COMARCA>Baix Llobregat</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200223</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32605</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37306</CINEID>
+<TITOL>Chris el suís</TITOL>
+<ses_data>23/02/2020</ses_data>
+<CINENOM>Teatre de Sarrià</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>57142</CICLEID>
+<ver>VOSC</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200223</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33325</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37177</CINEID>
+<TITOL>Zibila i el poder de les ratlles</TITOL>
+<ses_data>23/02/2020</ses_data>
+<CINENOM>JCA Cinemes Tarragona - Valls</CINENOM>
+<LOCALITAT>Valls</LOCALITAT>
+<COMARCA>Alt Camp</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200223</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33325</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37162</CINEID>
+<TITOL>Zibila i el poder de les ratlles</TITOL>
+<ses_data>23/02/2020</ses_data>
+<CINENOM>JCA Cinemes Lleida - Alpicat</CINENOM>
+<LOCALITAT>Alpicat</LOCALITAT>
+<COMARCA>Segrià</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200223</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33384</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37406</CINEID>
+<TITOL>Curiosa</TITOL>
+<ses_data>24/02/2020</ses_data>
+<CINENOM>Cinemes Texas</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VOSC</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200224</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33372</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37406</CINEID>
+<TITOL>Les bones intencions</TITOL>
+<ses_data>24/02/2020</ses_data>
+<CINENOM>Cinemes Texas</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VOSC</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200224</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32199</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37406</CINEID>
+<TITOL>Canvi de reines</TITOL>
+<ses_data>24/02/2020</ses_data>
+<CINENOM>Cinemes Texas</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VOSC</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200224</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33283</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37219</CINEID>
+<TITOL>Volant junts</TITOL>
+<ses_data>24/02/2020</ses_data>
+<CINENOM>Cinemes Illa Carlemany de Les Escaldes</CINENOM>
+<LOCALITAT>Escaldes-Engordany</LOCALITAT>
+<COMARCA>Escaldes-Engordany</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200224</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33366</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37406</CINEID>
+<TITOL>Amazing Grace</TITOL>
+<ses_data>24/02/2020</ses_data>
+<CINENOM>Cinemes Texas</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VOSC</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200224</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32602</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37222</CINEID>
+<TITOL>Mascotes 2</TITOL>
+<ses_data>24/02/2020</ses_data>
+<CINENOM>Auditori de la Biblioteca Municipal Mestre Martí Tauler de Rubí</CINENOM>
+<LOCALITAT>Rubí</LOCALITAT>
+<COMARCA>Vallès Occidental</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200224</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33262</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37203</CINEID>
+<TITOL>Operació Panda</TITOL>
+<ses_data>24/02/2020</ses_data>
+<CINENOM>Palau Balaña Multicines</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200224</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33262</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37160</CINEID>
+<TITOL>Operació Panda</TITOL>
+<ses_data>24/02/2020</ses_data>
+<CINENOM>Ocine Girona</CINENOM>
+<LOCALITAT>Girona</LOCALITAT>
+<COMARCA>Gironès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200224</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33325</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37187</CINEID>
+<TITOL>Zibila i el poder de les ratlles</TITOL>
+<ses_data>24/02/2020</ses_data>
+<CINENOM>CineBaix de Sant Feliu de Llobregat</CINENOM>
+<LOCALITAT>Sant Feliu de Llobregat</LOCALITAT>
+<COMARCA>Baix Llobregat</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200224</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33325</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37177</CINEID>
+<TITOL>Zibila i el poder de les ratlles</TITOL>
+<ses_data>24/02/2020</ses_data>
+<CINENOM>JCA Cinemes Tarragona - Valls</CINENOM>
+<LOCALITAT>Valls</LOCALITAT>
+<COMARCA>Alt Camp</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200224</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32542</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37406</CINEID>
+<TITOL>Els dies que vindran</TITOL>
+<ses_data>24/02/2020</ses_data>
+<CINENOM>Cinemes Texas</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VO</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200224</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33364</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37739</CINEID>
+<TITOL>La batalla de la memòria</TITOL>
+<ses_data>25/02/2020</ses_data>
+<CINENOM>Cinéma Jean Jaurès d'Argelers</CINENOM>
+<LOCALITAT>Argelers</LOCALITAT>
+<COMARCA>Occitània</COMARCA>
+<CICLEID>57257</CICLEID>
+<ver>VO</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200225</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32605</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37215</CINEID>
+<TITOL>Chris el suís</TITOL>
+<ses_data>25/02/2020</ses_data>
+<CINENOM>Cinemes Can Castellet de Sant Boi de Llobregat</CINENOM>
+<LOCALITAT>Sant Boi de Llobregat</LOCALITAT>
+<COMARCA>Baix Llobregat</COMARCA>
+<CICLEID>57142</CICLEID>
+<ver>VOSC</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200225</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32199</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37406</CINEID>
+<TITOL>Canvi de reines</TITOL>
+<ses_data>25/02/2020</ses_data>
+<CINENOM>Cinemes Texas</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VOSC</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200225</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33366</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37406</CINEID>
+<TITOL>Amazing Grace</TITOL>
+<ses_data>25/02/2020</ses_data>
+<CINENOM>Cinemes Texas</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VOSC</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200225</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32605</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37257</CINEID>
+<TITOL>Chris el suís</TITOL>
+<ses_data>25/02/2020</ses_data>
+<CINENOM>CineCiutat de Palma</CINENOM>
+<LOCALITAT>Palma</LOCALITAT>
+<COMARCA>Mallorca</COMARCA>
+<CICLEID>57142</CICLEID>
+<ver>VOSC</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200225</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33381</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37153</CINEID>
+<TITOL>Ombres</TITOL>
+<ses_data>25/02/2020</ses_data>
+<CINENOM>Filmoteca de Catalunya</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VOSC</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200225</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32605</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37250</CINEID>
+<TITOL>Chris el suís</TITOL>
+<ses_data>25/02/2020</ses_data>
+<CINENOM>Biblioteca de Vilapicina i la Torre Llobeta</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>57142</CICLEID>
+<ver>VOSC</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200225</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33384</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37406</CINEID>
+<TITOL>Curiosa</TITOL>
+<ses_data>25/02/2020</ses_data>
+<CINENOM>Cinemes Texas</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VOSC</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200225</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33219</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37183</CINEID>
+<TITOL>La innocència</TITOL>
+<ses_data>25/02/2020</ses_data>
+<CINENOM>Screenbox Funatic de Lleida</CINENOM>
+<LOCALITAT>Lleida</LOCALITAT>
+<COMARCA>Segrià</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VO</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200225</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33372</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37406</CINEID>
+<TITOL>Les bones intencions</TITOL>
+<ses_data>25/02/2020</ses_data>
+<CINENOM>Cinemes Texas</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VOSC</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200225</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33325</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37177</CINEID>
+<TITOL>Zibila i el poder de les ratlles</TITOL>
+<ses_data>25/02/2020</ses_data>
+<CINENOM>JCA Cinemes Tarragona - Valls</CINENOM>
+<LOCALITAT>Valls</LOCALITAT>
+<COMARCA>Alt Camp</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200225</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33262</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37160</CINEID>
+<TITOL>Operació Panda</TITOL>
+<ses_data>25/02/2020</ses_data>
+<CINENOM>Ocine Girona</CINENOM>
+<LOCALITAT>Girona</LOCALITAT>
+<COMARCA>Gironès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200225</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33262</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37203</CINEID>
+<TITOL>Operació Panda</TITOL>
+<ses_data>25/02/2020</ses_data>
+<CINENOM>Palau Balaña Multicines</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200225</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32542</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37406</CINEID>
+<TITOL>Els dies que vindran</TITOL>
+<ses_data>25/02/2020</ses_data>
+<CINENOM>Cinemes Texas</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VO</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200225</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33283</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37219</CINEID>
+<TITOL>Volant junts</TITOL>
+<ses_data>25/02/2020</ses_data>
+<CINENOM>Cinemes Illa Carlemany de Les Escaldes</CINENOM>
+<LOCALITAT>Escaldes-Engordany</LOCALITAT>
+<COMARCA>Escaldes-Engordany</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200225</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32542</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37406</CINEID>
+<TITOL>Els dies que vindran</TITOL>
+<ses_data>26/02/2020</ses_data>
+<CINENOM>Cinemes Texas</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VO</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200226</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33382</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37153</CINEID>
+<TITOL>La meva casa és Copacabana</TITOL>
+<ses_data>26/02/2020</ses_data>
+<CINENOM>Filmoteca de Catalunya</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VOSC</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200226</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33384</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37406</CINEID>
+<TITOL>Curiosa</TITOL>
+<ses_data>26/02/2020</ses_data>
+<CINENOM>Cinemes Texas</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VOSC</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200226</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33325</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37177</CINEID>
+<TITOL>Zibila i el poder de les ratlles</TITOL>
+<ses_data>26/02/2020</ses_data>
+<CINENOM>JCA Cinemes Tarragona - Valls</CINENOM>
+<LOCALITAT>Valls</LOCALITAT>
+<COMARCA>Alt Camp</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200226</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33262</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37203</CINEID>
+<TITOL>Operació Panda</TITOL>
+<ses_data>26/02/2020</ses_data>
+<CINENOM>Palau Balaña Multicines</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200226</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33283</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37219</CINEID>
+<TITOL>Volant junts</TITOL>
+<ses_data>26/02/2020</ses_data>
+<CINENOM>Cinemes Illa Carlemany de Les Escaldes</CINENOM>
+<LOCALITAT>Escaldes-Engordany</LOCALITAT>
+<COMARCA>Escaldes-Engordany</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200226</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32605</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37654</CINEID>
+<TITOL>Chris el suís</TITOL>
+<ses_data>26/02/2020</ses_data>
+<CINENOM>Biblioteca Pública de Maó</CINENOM>
+<LOCALITAT>Maó</LOCALITAT>
+<COMARCA>Menorca</COMARCA>
+<CICLEID>57142</CICLEID>
+<ver>VOSC</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200226</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32605</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37221</CINEID>
+<TITOL>Chris el suís</TITOL>
+<ses_data>26/02/2020</ses_data>
+<CINENOM>Cinema Els Til·lers de Sort</CINENOM>
+<LOCALITAT>Sort</LOCALITAT>
+<COMARCA>Pallars Sobirà</COMARCA>
+<CICLEID>57142</CICLEID>
+<ver>VOSC</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200226</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32605</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37773</CINEID>
+<TITOL>Chris el suís</TITOL>
+<ses_data>26/02/2020</ses_data>
+<CINENOM>Teatre Municipal Cooperativa de Barberà del Vallès</CINENOM>
+<LOCALITAT>Barberà del Vallès</LOCALITAT>
+<COMARCA>Vallès Occidental</COMARCA>
+<CICLEID>57142</CICLEID>
+<ver>VOSC</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200226</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33366</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37406</CINEID>
+<TITOL>Amazing Grace</TITOL>
+<ses_data>26/02/2020</ses_data>
+<CINENOM>Cinemes Texas</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VOSC</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200226</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33262</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37160</CINEID>
+<TITOL>Operació Panda</TITOL>
+<ses_data>26/02/2020</ses_data>
+<CINENOM>Ocine Girona</CINENOM>
+<LOCALITAT>Girona</LOCALITAT>
+<COMARCA>Gironès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200226</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33372</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37406</CINEID>
+<TITOL>Les bones intencions</TITOL>
+<ses_data>26/02/2020</ses_data>
+<CINENOM>Cinemes Texas</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VOSC</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200226</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32199</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37406</CINEID>
+<TITOL>Canvi de reines</TITOL>
+<ses_data>26/02/2020</ses_data>
+<CINENOM>Cinemes Texas</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VOSC</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200226</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33370</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37153</CINEID>
+<TITOL>Carmen torna a casa</TITOL>
+<ses_data>27/02/2020</ses_data>
+<CINENOM>Filmoteca de Catalunya</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VOSC</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200227</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33262</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37203</CINEID>
+<TITOL>Operació Panda</TITOL>
+<ses_data>27/02/2020</ses_data>
+<CINENOM>Palau Balaña Multicines</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200227</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32199</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37406</CINEID>
+<TITOL>Canvi de reines</TITOL>
+<ses_data>27/02/2020</ses_data>
+<CINENOM>Cinemes Texas</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VOSC</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200227</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33262</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37160</CINEID>
+<TITOL>Operació Panda</TITOL>
+<ses_data>27/02/2020</ses_data>
+<CINENOM>Ocine Girona</CINENOM>
+<LOCALITAT>Girona</LOCALITAT>
+<COMARCA>Gironès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200227</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33325</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37177</CINEID>
+<TITOL>Zibila i el poder de les ratlles</TITOL>
+<ses_data>27/02/2020</ses_data>
+<CINENOM>JCA Cinemes Tarragona - Valls</CINENOM>
+<LOCALITAT>Valls</LOCALITAT>
+<COMARCA>Alt Camp</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200227</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33364</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37771</CINEID>
+<TITOL>La batalla de la memòria</TITOL>
+<ses_data>27/02/2020</ses_data>
+<CINENOM>Sala Arago d'Estagell</CINENOM>
+<LOCALITAT>Estagell</LOCALITAT>
+<COMARCA>Occitània</COMARCA>
+<CICLEID>57257</CICLEID>
+<ver>VO</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200227</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33384</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37406</CINEID>
+<TITOL>Curiosa</TITOL>
+<ses_data>27/02/2020</ses_data>
+<CINENOM>Cinemes Texas</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VOSC</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200227</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32605</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37436</CINEID>
+<TITOL>Chris el suís</TITOL>
+<ses_data>27/02/2020</ses_data>
+<CINENOM>Atrium Teatre de Viladecans</CINENOM>
+<LOCALITAT>Viladecans</LOCALITAT>
+<COMARCA>Baix Llobregat</COMARCA>
+<CICLEID>57142</CICLEID>
+<ver>VOSC</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200227</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32542</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37406</CINEID>
+<TITOL>Els dies que vindran</TITOL>
+<ses_data>27/02/2020</ses_data>
+<CINENOM>Cinemes Texas</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VO</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200227</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33372</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37406</CINEID>
+<TITOL>Les bones intencions</TITOL>
+<ses_data>27/02/2020</ses_data>
+<CINENOM>Cinemes Texas</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VOSC</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200227</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33366</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37406</CINEID>
+<TITOL>Amazing Grace</TITOL>
+<ses_data>27/02/2020</ses_data>
+<CINENOM>Cinemes Texas</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VOSC</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200227</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33283</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37219</CINEID>
+<TITOL>Volant junts</TITOL>
+<ses_data>27/02/2020</ses_data>
+<CINENOM>Cinemes Illa Carlemany de Les Escaldes</CINENOM>
+<LOCALITAT>Escaldes-Engordany</LOCALITAT>
+<COMARCA>Escaldes-Engordany</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200227</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32571</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37544</CINEID>
+<TITOL>El viatge de la Marta</TITOL>
+<ses_data>27/02/2020</ses_data>
+<CINENOM>Cines Odeon d'Elx</CINENOM>
+<LOCALITAT>Elx</LOCALITAT>
+<COMARCA>Alacant</COMARCA>
+<CICLEID>57253</CICLEID>
+<ver>VOSC</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200227</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32707</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37449</CINEID>
+<TITOL>Cinema Mon Amour</TITOL>
+<ses_data>27/02/2020</ses_data>
+<CINENOM>Méliès Cinemes</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VO</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200227</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>28962</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37153</CINEID>
+<TITOL>Barcelona, nit d'hivern</TITOL>
+<ses_data>27/02/2020</ses_data>
+<CINENOM>Filmoteca de Catalunya</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VO</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200227</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32605</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37772</CINEID>
+<TITOL>Chris el suís</TITOL>
+<ses_data>28/02/2020</ses_data>
+<CINENOM>Ateneu Municipal de Rubí</CINENOM>
+<LOCALITAT>Rubí</LOCALITAT>
+<COMARCA>Vallès Occidental</COMARCA>
+<CICLEID>57142</CICLEID>
+<ver>VOSC</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200228</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32605</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37302</CINEID>
+<TITOL>Chris el suís</TITOL>
+<ses_data>28/02/2020</ses_data>
+<CINENOM>Teatre Mundial de La Bisbal d'Empordà</CINENOM>
+<LOCALITAT>La Bisbal d'Empordà</LOCALITAT>
+<COMARCA>Baix Empordà</COMARCA>
+<CICLEID>57142</CICLEID>
+<ver>VOSC</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200228</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32605</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37249</CINEID>
+<TITOL>Chris el suís</TITOL>
+<ses_data>28/02/2020</ses_data>
+<CINENOM>Ateneu de Sant Just</CINENOM>
+<LOCALITAT>Sant Just Desvern</LOCALITAT>
+<COMARCA>Baix Llobregat</COMARCA>
+<CICLEID>57142</CICLEID>
+<ver>VOSC</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200228</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32605</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37520</CINEID>
+<TITOL>Chris el suís</TITOL>
+<ses_data>28/02/2020</ses_data>
+<CINENOM>Biblioteca Pública de Tarragona</CINENOM>
+<LOCALITAT>Tarragona</LOCALITAT>
+<COMARCA>Tarragonès</COMARCA>
+<CICLEID>57142</CICLEID>
+<ver>VOSC</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200228</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33365</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37419</CINEID>
+<TITOL>Especials</TITOL>
+<ses_data>28/02/2020</ses_data>
+<CINENOM>Pendent de confirmar</CINENOM>
+<LOCALITAT>Pendent de confirmar</LOCALITAT>
+<COMARCA>--</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200228</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33365</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37419</CINEID>
+<TITOL>Especials</TITOL>
+<ses_data>28/02/2020</ses_data>
+<CINENOM>Pendent de confirmar</CINENOM>
+<LOCALITAT>Pendent de confirmar</LOCALITAT>
+<COMARCA>--</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VOSC</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200228</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32853</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37742</CINEID>
+<TITOL>O que arde</TITOL>
+<ses_data>28/02/2020</ses_data>
+<CINENOM>Centre cultural de Malgrat de Mar</CINENOM>
+<LOCALITAT>Malgrat de Mar</LOCALITAT>
+<COMARCA>Maresme</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VOSC</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200228</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33365</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37183</CINEID>
+<TITOL>Especials</TITOL>
+<ses_data>28/02/2020</ses_data>
+<CINENOM>Screenbox Funatic de Lleida</CINENOM>
+<LOCALITAT>Lleida</LOCALITAT>
+<COMARCA>Segrià</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200228</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32575</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37157</CINEID>
+<TITOL>Toy Story 4</TITOL>
+<ses_data>29/02/2020</ses_data>
+<CINENOM>CAT Cines Figueres ACEC</CINENOM>
+<LOCALITAT>Figueres</LOCALITAT>
+<COMARCA>Alt Empordà</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200229</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32575</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37218</CINEID>
+<TITOL>Toy Story 4</TITOL>
+<ses_data>29/02/2020</ses_data>
+<CINENOM>Ocine Vila-seca – Port Halley</CINENOM>
+<LOCALITAT>Vila-seca</LOCALITAT>
+<COMARCA>Tarragonès</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200229</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32575</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37217</CINEID>
+<TITOL>Toy Story 4</TITOL>
+<ses_data>29/02/2020</ses_data>
+<CINENOM>Ocine El Vendrell – Les Mates</CINENOM>
+<LOCALITAT>El Vendrell</LOCALITAT>
+<COMARCA>Baix Penedès</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200229</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32575</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37168</CINEID>
+<TITOL>Toy Story 4</TITOL>
+<ses_data>29/02/2020</ses_data>
+<CINENOM>Cines Olot</CINENOM>
+<LOCALITAT>Olot</LOCALITAT>
+<COMARCA>Garrotxa</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200229</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33365</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37183</CINEID>
+<TITOL>Especials</TITOL>
+<ses_data>29/02/2020</ses_data>
+<CINENOM>Screenbox Funatic de Lleida</CINENOM>
+<LOCALITAT>Lleida</LOCALITAT>
+<COMARCA>Segrià</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200229</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32575</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37216</CINEID>
+<TITOL>Toy Story 4</TITOL>
+<ses_data>29/02/2020</ses_data>
+<CINENOM>Ocine Sant Celoni – Altrium</CINENOM>
+<LOCALITAT>Sant Celoni</LOCALITAT>
+<COMARCA>Vallès Oriental</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200229</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32602</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37214</CINEID>
+<TITOL>Mascotes 2</TITOL>
+<ses_data>29/02/2020</ses_data>
+<CINENOM>Atrium Cines de Sant Andreu de la Barca</CINENOM>
+<LOCALITAT>Sant Andreu de la Barca</LOCALITAT>
+<COMARCA>Baix Llobregat</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200229</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32575</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37213</CINEID>
+<TITOL>Toy Story 4</TITOL>
+<ses_data>29/02/2020</ses_data>
+<CINENOM>Ocine Roquetes</CINENOM>
+<LOCALITAT>Roquetes</LOCALITAT>
+<COMARCA>Baix Ebre</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200229</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32574</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37313</CINEID>
+<TITOL>Mr. Link</TITOL>
+<ses_data>29/02/2020</ses_data>
+<CINENOM>Teatre Principal de Lleida</CINENOM>
+<LOCALITAT>Lleida</LOCALITAT>
+<COMARCA>Segrià</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200229</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33041</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37193</CINEID>
+<TITOL>Espies disfressats</TITOL>
+<ses_data>29/02/2020</ses_data>
+<CINENOM>Cinema Casal d'Agramunt</CINENOM>
+<LOCALITAT>Agramunt</LOCALITAT>
+<COMARCA>Urgell</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200229</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32575</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37210</CINEID>
+<TITOL>Toy Story 4</TITOL>
+<ses_data>29/02/2020</ses_data>
+<CINENOM>Ocine Platja d’Aro – Parc d’Aro</CINENOM>
+<LOCALITAT>Castell-Platja d’Aro</LOCALITAT>
+<COMARCA>Baix Empordà</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200229</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32575</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37378</CINEID>
+<TITOL>Toy Story 4</TITOL>
+<ses_data>29/02/2020</ses_data>
+<CINENOM>Ocine Blanes</CINENOM>
+<LOCALITAT>Blanes</LOCALITAT>
+<COMARCA>Selva</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200229</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32575</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37143</CINEID>
+<TITOL>Toy Story 4</TITOL>
+<ses_data>29/02/2020</ses_data>
+<CINENOM>Ocine Màgic Badalona</CINENOM>
+<LOCALITAT>Badalona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200229</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33009</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37534</CINEID>
+<TITOL>Frozen II</TITOL>
+<ses_data>29/02/2020</ses_data>
+<CINENOM>Centre Cultural de Mollerussa</CINENOM>
+<LOCALITAT>Mollerussa</LOCALITAT>
+<COMARCA>Pla d'Urgell</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200229</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32574</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37177</CINEID>
+<TITOL>Mr. Link</TITOL>
+<ses_data>29/02/2020</ses_data>
+<CINENOM>JCA Cinemes Tarragona - Valls</CINENOM>
+<LOCALITAT>Valls</LOCALITAT>
+<COMARCA>Alt Camp</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200229</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33009</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37229</CINEID>
+<TITOL>Frozen II</TITOL>
+<ses_data>29/02/2020</ses_data>
+<CINENOM>Cinema París de Solsona</CINENOM>
+<LOCALITAT>Solsona</LOCALITAT>
+<COMARCA>Solsonès</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200229</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32575</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37160</CINEID>
+<TITOL>Toy Story 4</TITOL>
+<ses_data>29/02/2020</ses_data>
+<CINENOM>Ocine Girona</CINENOM>
+<LOCALITAT>Girona</LOCALITAT>
+<COMARCA>Gironès</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200229</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32575</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37161</CINEID>
+<TITOL>Toy Story 4</TITOL>
+<ses_data>29/02/2020</ses_data>
+<CINENOM>Ocine Granollers - El Nord</CINENOM>
+<LOCALITAT>Granollers</LOCALITAT>
+<COMARCA>Vallès Oriental</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200229</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32575</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37174</CINEID>
+<TITOL>Toy Story 4</TITOL>
+<ses_data>29/02/2020</ses_data>
+<CINENOM>Ocine Tarragona - Les Gavarres</CINENOM>
+<LOCALITAT>Tarragona</LOCALITAT>
+<COMARCA>Tarragonès</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200229</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32575</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37208</CINEID>
+<TITOL>Toy Story 4</TITOL>
+<ses_data>29/02/2020</ses_data>
+<CINENOM>Cines Filmax Gran Via 4DX de l'Hospitalet de Llobregat</CINENOM>
+<LOCALITAT>L’Hospitalet de Llobregat</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200229</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32574</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37177</CINEID>
+<TITOL>Mr. Link</TITOL>
+<ses_data>01/03/2020</ses_data>
+<CINENOM>JCA Cinemes Tarragona - Valls</CINENOM>
+<LOCALITAT>Valls</LOCALITAT>
+<COMARCA>Alt Camp</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200301</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>28717</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37147</CINEID>
+<TITOL>L'estiu i la tardor al regne d'Escampeta</TITOL>
+<ses_data>01/03/2020</ses_data>
+<CINENOM>Cinemes Girona</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>57221</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200301</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33262</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37223</CINEID>
+<TITOL>Operació Panda</TITOL>
+<ses_data>01/03/2020</ses_data>
+<CINENOM>Cine Goya de Mequinensa</CINENOM>
+<LOCALITAT>Mequinensa</LOCALITAT>
+<COMARCA>Saragossa</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200301</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33365</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37183</CINEID>
+<TITOL>Especials</TITOL>
+<ses_data>01/03/2020</ses_data>
+<CINENOM>Screenbox Funatic de Lleida</CINENOM>
+<LOCALITAT>Lleida</LOCALITAT>
+<COMARCA>Segrià</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200301</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32574</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37313</CINEID>
+<TITOL>Mr. Link</TITOL>
+<ses_data>01/03/2020</ses_data>
+<CINENOM>Teatre Principal de Lleida</CINENOM>
+<LOCALITAT>Lleida</LOCALITAT>
+<COMARCA>Segrià</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200301</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32082</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37147</CINEID>
+<TITOL>El vent entre les canyes</TITOL>
+<ses_data>01/03/2020</ses_data>
+<CINENOM>Cinemes Girona</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>57221</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200301</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33009</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37417</CINEID>
+<TITOL>Frozen II</TITOL>
+<ses_data>01/03/2020</ses_data>
+<CINENOM>Centre d'Entitats de Tamarit de Llitera</CINENOM>
+<LOCALITAT>Tamarit de Llitera</LOCALITAT>
+<COMARCA>Osca</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200301</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33262</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37197</CINEID>
+<TITOL>Operació Panda</TITOL>
+<ses_data>01/03/2020</ses_data>
+<CINENOM>Teatre Cinema Armengol de Bellpuig</CINENOM>
+<LOCALITAT>Bellpuig</LOCALITAT>
+<COMARCA>Urgell</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200301</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33383</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37274</CINEID>
+<TITOL>Diari de bosc</TITOL>
+<ses_data>01/03/2020</ses_data>
+<CINENOM>Zumzeig Cinecooperativa</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VO</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200301</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32410</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37670</CINEID>
+<TITOL>Zog, dracs i heroïnes</TITOL>
+<ses_data>01/03/2020</ses_data>
+<CINENOM>Cineclub Adler - Teatre Municipal de Lloret de Mar</CINENOM>
+<LOCALITAT>Lloret de Mar</LOCALITAT>
+<COMARCA>Selva</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200301</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32824</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37147</CINEID>
+<TITOL>Basia</TITOL>
+<ses_data>01/03/2020</ses_data>
+<CINENOM>Cinemes Girona</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>57221</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200301</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33062</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37787</CINEID>
+<TITOL>Jacob, Mimi i els gossos del barri</TITOL>
+<ses_data>01/03/2020</ses_data>
+<CINENOM>Cinema Truffaut de Girona</CINENOM>
+<LOCALITAT>Girona</LOCALITAT>
+<COMARCA>Gironès</COMARCA>
+<CICLEID>57222</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200301</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33040</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37194</CINEID>
+<TITOL>Bobby, l'eriçó</TITOL>
+<ses_data>01/03/2020</ses_data>
+<CINENOM>Cinema Casal Montblanquí</CINENOM>
+<LOCALITAT>Montblanc</LOCALITAT>
+<COMARCA>Conca de Barberà</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200301</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32575</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37157</CINEID>
+<TITOL>Toy Story 4</TITOL>
+<ses_data>01/03/2020</ses_data>
+<CINENOM>CAT Cines Figueres ACEC</CINENOM>
+<LOCALITAT>Figueres</LOCALITAT>
+<COMARCA>Alt Empordà</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200301</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32575</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37168</CINEID>
+<TITOL>Toy Story 4</TITOL>
+<ses_data>01/03/2020</ses_data>
+<CINENOM>Cines Olot</CINENOM>
+<LOCALITAT>Olot</LOCALITAT>
+<COMARCA>Garrotxa</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200301</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32575</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37208</CINEID>
+<TITOL>Toy Story 4</TITOL>
+<ses_data>01/03/2020</ses_data>
+<CINENOM>Cines Filmax Gran Via 4DX de l'Hospitalet de Llobregat</CINENOM>
+<LOCALITAT>L’Hospitalet de Llobregat</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200301</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33365</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37183</CINEID>
+<TITOL>Especials</TITOL>
+<ses_data>02/03/2020</ses_data>
+<CINENOM>Screenbox Funatic de Lleida</CINENOM>
+<LOCALITAT>Lleida</LOCALITAT>
+<COMARCA>Segrià</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200302</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33383</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37147</CINEID>
+<TITOL>Diari de bosc</TITOL>
+<ses_data>03/03/2020</ses_data>
+<CINENOM>Cinemes Girona</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VO</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200303</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33364</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37735</CINEID>
+<TITOL>La batalla de la memòria</TITOL>
+<ses_data>03/03/2020</ses_data>
+<CINENOM>Cinéma Le Lido de Prada</CINENOM>
+<LOCALITAT>Prada de Conflent</LOCALITAT>
+<COMARCA>Occitània</COMARCA>
+<CICLEID>57257</CICLEID>
+<ver>VO</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200303</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33365</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37183</CINEID>
+<TITOL>Especials</TITOL>
+<ses_data>03/03/2020</ses_data>
+<CINENOM>Screenbox Funatic de Lleida</CINENOM>
+<LOCALITAT>Lleida</LOCALITAT>
+<COMARCA>Segrià</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200303</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33364</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37731</CINEID>
+<TITOL>La batalla de la memòria</TITOL>
+<ses_data>03/03/2020</ses_data>
+<CINENOM>Cinéma Le Puigmal d'Oceja</CINENOM>
+<LOCALITAT>Oceja</LOCALITAT>
+<COMARCA>Occitània</COMARCA>
+<CICLEID>57257</CICLEID>
+<ver>VO</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200303</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33365</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37183</CINEID>
+<TITOL>Especials</TITOL>
+<ses_data>04/03/2020</ses_data>
+<CINENOM>Screenbox Funatic de Lleida</CINENOM>
+<LOCALITAT>Lleida</LOCALITAT>
+<COMARCA>Segrià</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200304</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32680</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37249</CINEID>
+<TITOL>Maleïda 1882, l'aventura de Jacint Verdaguer a l'Aneto</TITOL>
+<ses_data>04/03/2020</ses_data>
+<CINENOM>Ateneu de Sant Just</CINENOM>
+<LOCALITAT>Sant Just Desvern</LOCALITAT>
+<COMARCA>Baix Llobregat</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VO</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200304</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33365</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37183</CINEID>
+<TITOL>Especials</TITOL>
+<ses_data>05/03/2020</ses_data>
+<CINENOM>Screenbox Funatic de Lleida</CINENOM>
+<LOCALITAT>Lleida</LOCALITAT>
+<COMARCA>Segrià</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200305</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32185</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37228</CINEID>
+<TITOL>Essential Killing</TITOL>
+<ses_data>05/03/2020</ses_data>
+<CINENOM>Cinemes Guiu de La Seu d'Urgell</CINENOM>
+<LOCALITAT>La Seu d'Urgell</LOCALITAT>
+<COMARCA>Alt Urgell</COMARCA>
+<CICLEID>57261</CICLEID>
+<ver>VOSC</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200305</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33361</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37419</CINEID>
+<TITOL>Onward</TITOL>
+<ses_data>06/03/2020</ses_data>
+<CINENOM>Pendent de confirmar</CINENOM>
+<LOCALITAT>Pendent de confirmar</LOCALITAT>
+<COMARCA>--</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200306</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32602</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37378</CINEID>
+<TITOL>Mascotes 2</TITOL>
+<ses_data>07/03/2020</ses_data>
+<CINENOM>Ocine Blanes</CINENOM>
+<LOCALITAT>Blanes</LOCALITAT>
+<COMARCA>Selva</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200307</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32602</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37217</CINEID>
+<TITOL>Mascotes 2</TITOL>
+<ses_data>07/03/2020</ses_data>
+<CINENOM>Ocine El Vendrell – Les Mates</CINENOM>
+<LOCALITAT>El Vendrell</LOCALITAT>
+<COMARCA>Baix Penedès</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200307</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32602</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37160</CINEID>
+<TITOL>Mascotes 2</TITOL>
+<ses_data>07/03/2020</ses_data>
+<CINENOM>Ocine Girona</CINENOM>
+<LOCALITAT>Girona</LOCALITAT>
+<COMARCA>Gironès</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200307</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32602</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37161</CINEID>
+<TITOL>Mascotes 2</TITOL>
+<ses_data>07/03/2020</ses_data>
+<CINENOM>Ocine Granollers - El Nord</CINENOM>
+<LOCALITAT>Granollers</LOCALITAT>
+<COMARCA>Vallès Oriental</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200307</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32602</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37143</CINEID>
+<TITOL>Mascotes 2</TITOL>
+<ses_data>07/03/2020</ses_data>
+<CINENOM>Ocine Màgic Badalona</CINENOM>
+<LOCALITAT>Badalona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200307</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32602</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37216</CINEID>
+<TITOL>Mascotes 2</TITOL>
+<ses_data>07/03/2020</ses_data>
+<CINENOM>Ocine Sant Celoni – Altrium</CINENOM>
+<LOCALITAT>Sant Celoni</LOCALITAT>
+<COMARCA>Vallès Oriental</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200307</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32852</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37193</CINEID>
+<TITOL>Spy Cat</TITOL>
+<ses_data>07/03/2020</ses_data>
+<CINENOM>Cinema Casal d'Agramunt</CINENOM>
+<LOCALITAT>Agramunt</LOCALITAT>
+<COMARCA>Urgell</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200307</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32602</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37174</CINEID>
+<TITOL>Mascotes 2</TITOL>
+<ses_data>07/03/2020</ses_data>
+<CINENOM>Ocine Tarragona - Les Gavarres</CINENOM>
+<LOCALITAT>Tarragona</LOCALITAT>
+<COMARCA>Tarragonès</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200307</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32602</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37213</CINEID>
+<TITOL>Mascotes 2</TITOL>
+<ses_data>07/03/2020</ses_data>
+<CINENOM>Ocine Roquetes</CINENOM>
+<LOCALITAT>Roquetes</LOCALITAT>
+<COMARCA>Baix Ebre</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200307</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32602</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37218</CINEID>
+<TITOL>Mascotes 2</TITOL>
+<ses_data>07/03/2020</ses_data>
+<CINENOM>Ocine Vila-seca – Port Halley</CINENOM>
+<LOCALITAT>Vila-seca</LOCALITAT>
+<COMARCA>Tarragonès</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200307</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32602</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37210</CINEID>
+<TITOL>Mascotes 2</TITOL>
+<ses_data>07/03/2020</ses_data>
+<CINENOM>Ocine Platja d’Aro – Parc d’Aro</CINENOM>
+<LOCALITAT>Castell-Platja d’Aro</LOCALITAT>
+<COMARCA>Baix Empordà</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200307</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32850</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37168</CINEID>
+<TITOL>El rei ruc</TITOL>
+<ses_data>07/03/2020</ses_data>
+<CINENOM>Cines Olot</CINENOM>
+<LOCALITAT>Olot</LOCALITAT>
+<COMARCA>Garrotxa</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200307</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32574</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37674</CINEID>
+<TITOL>Mr. Link</TITOL>
+<ses_data>07/03/2020</ses_data>
+<CINENOM>Teatre del Raval de Gandia</CINENOM>
+<LOCALITAT>Gandia</LOCALITAT>
+<COMARCA>València</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200307</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33262</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37229</CINEID>
+<TITOL>Operació Panda</TITOL>
+<ses_data>07/03/2020</ses_data>
+<CINENOM>Cinema París de Solsona</CINENOM>
+<LOCALITAT>Solsona</LOCALITAT>
+<COMARCA>Solsonès</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200307</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32602</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37157</CINEID>
+<TITOL>Mascotes 2</TITOL>
+<ses_data>07/03/2020</ses_data>
+<CINENOM>CAT Cines Figueres ACEC</CINENOM>
+<LOCALITAT>Figueres</LOCALITAT>
+<COMARCA>Alt Empordà</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200307</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32680</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37453</CINEID>
+<TITOL>Maleïda 1882, l'aventura de Jacint Verdaguer a l'Aneto</TITOL>
+<ses_data>07/03/2020</ses_data>
+<CINENOM>Teatre d'Artà</CINENOM>
+<LOCALITAT>Artà</LOCALITAT>
+<COMARCA>Mallorca</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VO</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200307</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33262</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37534</CINEID>
+<TITOL>Operació Panda</TITOL>
+<ses_data>07/03/2020</ses_data>
+<CINENOM>Centre Cultural de Mollerussa</CINENOM>
+<LOCALITAT>Mollerussa</LOCALITAT>
+<COMARCA>Pla d'Urgell</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200307</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32602</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37157</CINEID>
+<TITOL>Mascotes 2</TITOL>
+<ses_data>08/03/2020</ses_data>
+<CINENOM>CAT Cines Figueres ACEC</CINENOM>
+<LOCALITAT>Figueres</LOCALITAT>
+<COMARCA>Alt Empordà</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200308</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32850</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37168</CINEID>
+<TITOL>El rei ruc</TITOL>
+<ses_data>08/03/2020</ses_data>
+<CINENOM>Cines Olot</CINENOM>
+<LOCALITAT>Olot</LOCALITAT>
+<COMARCA>Garrotxa</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200308</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>31221</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37301</CINEID>
+<TITOL>Petzi i la mar salada</TITOL>
+<ses_data>08/03/2020</ses_data>
+<CINENOM>La Cate - Sala Teatre de Figueres</CINENOM>
+<LOCALITAT>Figueres</LOCALITAT>
+<COMARCA>Alt Empordà</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200308</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33159</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37787</CINEID>
+<TITOL>Les vides de Marona</TITOL>
+<ses_data>08/03/2020</ses_data>
+<CINENOM>Cinema Truffaut de Girona</CINENOM>
+<LOCALITAT>Girona</LOCALITAT>
+<COMARCA>Gironès</COMARCA>
+<CICLEID>57222</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200308</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32082</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37187</CINEID>
+<TITOL>El vent entre les canyes</TITOL>
+<ses_data>08/03/2020</ses_data>
+<CINENOM>CineBaix de Sant Feliu de Llobregat</CINENOM>
+<LOCALITAT>Sant Feliu de Llobregat</LOCALITAT>
+<COMARCA>Baix Llobregat</COMARCA>
+<CICLEID>57221</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200308</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33041</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37417</CINEID>
+<TITOL>Espies disfressats</TITOL>
+<ses_data>08/03/2020</ses_data>
+<CINENOM>Centre d'Entitats de Tamarit de Llitera</CINENOM>
+<LOCALITAT>Tamarit de Llitera</LOCALITAT>
+<COMARCA>Osca</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200308</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33009</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37194</CINEID>
+<TITOL>Frozen II</TITOL>
+<ses_data>08/03/2020</ses_data>
+<CINENOM>Cinema Casal Montblanquí</CINENOM>
+<LOCALITAT>Montblanc</LOCALITAT>
+<COMARCA>Conca de Barberà</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200308</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33041</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37197</CINEID>
+<TITOL>Espies disfressats</TITOL>
+<ses_data>08/03/2020</ses_data>
+<CINENOM>Teatre Cinema Armengol de Bellpuig</CINENOM>
+<LOCALITAT>Bellpuig</LOCALITAT>
+<COMARCA>Urgell</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200308</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>28717</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37187</CINEID>
+<TITOL>L'estiu i la tardor al regne d'Escampeta</TITOL>
+<ses_data>08/03/2020</ses_data>
+<CINENOM>CineBaix de Sant Feliu de Llobregat</CINENOM>
+<LOCALITAT>Sant Feliu de Llobregat</LOCALITAT>
+<COMARCA>Baix Llobregat</COMARCA>
+<CICLEID>57221</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200308</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32824</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37187</CINEID>
+<TITOL>Basia</TITOL>
+<ses_data>08/03/2020</ses_data>
+<CINENOM>CineBaix de Sant Feliu de Llobregat</CINENOM>
+<LOCALITAT>Sant Feliu de Llobregat</LOCALITAT>
+<COMARCA>Baix Llobregat</COMARCA>
+<CICLEID>57221</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200308</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33041</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37222</CINEID>
+<TITOL>Espies disfressats</TITOL>
+<ses_data>09/03/2020</ses_data>
+<CINENOM>Auditori de la Biblioteca Municipal Mestre Martí Tauler de Rubí</CINENOM>
+<LOCALITAT>Rubí</LOCALITAT>
+<COMARCA>Vallès Occidental</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200309</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>29182</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37153</CINEID>
+<TITOL>Al sostre del món</TITOL>
+<ses_data>11/03/2020</ses_data>
+<CINENOM>Filmoteca de Catalunya</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200311</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>29182</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37153</CINEID>
+<TITOL>Al sostre del món</TITOL>
+<ses_data>12/03/2020</ses_data>
+<CINENOM>Filmoteca de Catalunya</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200312</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33159</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37419</CINEID>
+<TITOL>Les vides de Marona</TITOL>
+<ses_data>13/03/2020</ses_data>
+<CINENOM>Pendent de confirmar</CINENOM>
+<LOCALITAT>Pendent de confirmar</LOCALITAT>
+<COMARCA>--</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200313</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33369</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37419</CINEID>
+<TITOL>La Klara i el lladre de pomes</TITOL>
+<ses_data>13/03/2020</ses_data>
+<CINENOM>Pendent de confirmar</CINENOM>
+<LOCALITAT>Pendent de confirmar</LOCALITAT>
+<COMARCA>--</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200313</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33377</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37419</CINEID>
+<TITOL>La família Samuni</TITOL>
+<ses_data>13/03/2020</ses_data>
+<CINENOM>Pendent de confirmar</CINENOM>
+<LOCALITAT>Pendent de confirmar</LOCALITAT>
+<COMARCA>--</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VOSC</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200313</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32602</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37208</CINEID>
+<TITOL>Mascotes 2</TITOL>
+<ses_data>14/03/2020</ses_data>
+<CINENOM>Cines Filmax Gran Via 4DX de l'Hospitalet de Llobregat</CINENOM>
+<LOCALITAT>L’Hospitalet de Llobregat</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200314</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32708</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37217</CINEID>
+<TITOL>Playmobil: La pel·lícula</TITOL>
+<ses_data>14/03/2020</ses_data>
+<CINENOM>Ocine El Vendrell – Les Mates</CINENOM>
+<LOCALITAT>El Vendrell</LOCALITAT>
+<COMARCA>Baix Penedès</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200314</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32708</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37378</CINEID>
+<TITOL>Playmobil: La pel·lícula</TITOL>
+<ses_data>14/03/2020</ses_data>
+<CINENOM>Ocine Blanes</CINENOM>
+<LOCALITAT>Blanes</LOCALITAT>
+<COMARCA>Selva</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200314</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32719</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37157</CINEID>
+<TITOL>Angry Birds 2: La pel·lícula</TITOL>
+<ses_data>14/03/2020</ses_data>
+<CINENOM>CAT Cines Figueres ACEC</CINENOM>
+<LOCALITAT>Figueres</LOCALITAT>
+<COMARCA>Alt Empordà</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200314</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32708</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37216</CINEID>
+<TITOL>Playmobil: La pel·lícula</TITOL>
+<ses_data>14/03/2020</ses_data>
+<CINENOM>Ocine Sant Celoni – Altrium</CINENOM>
+<LOCALITAT>Sant Celoni</LOCALITAT>
+<COMARCA>Vallès Oriental</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200314</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32708</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37160</CINEID>
+<TITOL>Playmobil: La pel·lícula</TITOL>
+<ses_data>14/03/2020</ses_data>
+<CINENOM>Ocine Girona</CINENOM>
+<LOCALITAT>Girona</LOCALITAT>
+<COMARCA>Gironès</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200314</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32708</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37143</CINEID>
+<TITOL>Playmobil: La pel·lícula</TITOL>
+<ses_data>14/03/2020</ses_data>
+<CINENOM>Ocine Màgic Badalona</CINENOM>
+<LOCALITAT>Badalona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200314</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32824</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37225</CINEID>
+<TITOL>Basia</TITOL>
+<ses_data>14/03/2020</ses_data>
+<CINENOM>Cinemes Majèstic de Tàrrega</CINENOM>
+<LOCALITAT>Tàrrega</LOCALITAT>
+<COMARCA>Urgell</COMARCA>
+<CICLEID>57221</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200314</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32708</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37161</CINEID>
+<TITOL>Playmobil: La pel·lícula</TITOL>
+<ses_data>14/03/2020</ses_data>
+<CINENOM>Ocine Granollers - El Nord</CINENOM>
+<LOCALITAT>Granollers</LOCALITAT>
+<COMARCA>Vallès Oriental</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200314</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>28717</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37225</CINEID>
+<TITOL>L'estiu i la tardor al regne d'Escampeta</TITOL>
+<ses_data>14/03/2020</ses_data>
+<CINENOM>Cinemes Majèstic de Tàrrega</CINENOM>
+<LOCALITAT>Tàrrega</LOCALITAT>
+<COMARCA>Urgell</COMARCA>
+<CICLEID>57221</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200314</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32602</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37168</CINEID>
+<TITOL>Mascotes 2</TITOL>
+<ses_data>14/03/2020</ses_data>
+<CINENOM>Cines Olot</CINENOM>
+<LOCALITAT>Olot</LOCALITAT>
+<COMARCA>Garrotxa</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200314</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32708</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37218</CINEID>
+<TITOL>Playmobil: La pel·lícula</TITOL>
+<ses_data>14/03/2020</ses_data>
+<CINENOM>Ocine Vila-seca – Port Halley</CINENOM>
+<LOCALITAT>Vila-seca</LOCALITAT>
+<COMARCA>Tarragonès</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200314</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32708</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37174</CINEID>
+<TITOL>Playmobil: La pel·lícula</TITOL>
+<ses_data>14/03/2020</ses_data>
+<CINENOM>Ocine Tarragona - Les Gavarres</CINENOM>
+<LOCALITAT>Tarragona</LOCALITAT>
+<COMARCA>Tarragonès</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200314</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33041</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37534</CINEID>
+<TITOL>Espies disfressats</TITOL>
+<ses_data>14/03/2020</ses_data>
+<CINENOM>Centre Cultural de Mollerussa</CINENOM>
+<LOCALITAT>Mollerussa</LOCALITAT>
+<COMARCA>Pla d'Urgell</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200314</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32575</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37313</CINEID>
+<TITOL>Toy Story 4</TITOL>
+<ses_data>14/03/2020</ses_data>
+<CINENOM>Teatre Principal de Lleida</CINENOM>
+<LOCALITAT>Lleida</LOCALITAT>
+<COMARCA>Segrià</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200314</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32575</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37177</CINEID>
+<TITOL>Toy Story 4</TITOL>
+<ses_data>14/03/2020</ses_data>
+<CINENOM>JCA Cinemes Tarragona - Valls</CINENOM>
+<LOCALITAT>Valls</LOCALITAT>
+<COMARCA>Alt Camp</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200314</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32708</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37213</CINEID>
+<TITOL>Playmobil: La pel·lícula</TITOL>
+<ses_data>14/03/2020</ses_data>
+<CINENOM>Ocine Roquetes</CINENOM>
+<LOCALITAT>Roquetes</LOCALITAT>
+<COMARCA>Baix Ebre</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200314</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32474</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37189</CINEID>
+<TITOL>La Mia i el lleó blanc</TITOL>
+<ses_data>14/03/2020</ses_data>
+<CINENOM>Cinema Catalunya de Terrassa</CINENOM>
+<LOCALITAT>Terrassa</LOCALITAT>
+<COMARCA>Vallès Occidental</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200314</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32708</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37210</CINEID>
+<TITOL>Playmobil: La pel·lícula</TITOL>
+<ses_data>14/03/2020</ses_data>
+<CINENOM>Ocine Platja d’Aro – Parc d’Aro</CINENOM>
+<LOCALITAT>Castell-Platja d’Aro</LOCALITAT>
+<COMARCA>Baix Empordà</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200314</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33041</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37229</CINEID>
+<TITOL>Espies disfressats</TITOL>
+<ses_data>14/03/2020</ses_data>
+<CINENOM>Cinema París de Solsona</CINENOM>
+<LOCALITAT>Solsona</LOCALITAT>
+<COMARCA>Solsonès</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200314</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33009</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37193</CINEID>
+<TITOL>Frozen II</TITOL>
+<ses_data>14/03/2020</ses_data>
+<CINENOM>Cinema Casal d'Agramunt</CINENOM>
+<LOCALITAT>Agramunt</LOCALITAT>
+<COMARCA>Urgell</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200314</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32082</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37225</CINEID>
+<TITOL>El vent entre les canyes</TITOL>
+<ses_data>14/03/2020</ses_data>
+<CINENOM>Cinemes Majèstic de Tàrrega</CINENOM>
+<LOCALITAT>Tàrrega</LOCALITAT>
+<COMARCA>Urgell</COMARCA>
+<CICLEID>57221</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200314</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33159</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37787</CINEID>
+<TITOL>Les vides de Marona</TITOL>
+<ses_data>15/03/2020</ses_data>
+<CINENOM>Cinema Truffaut de Girona</CINENOM>
+<LOCALITAT>Girona</LOCALITAT>
+<COMARCA>Gironès</COMARCA>
+<CICLEID>57222</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200315</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32824</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37162</CINEID>
+<TITOL>Basia</TITOL>
+<ses_data>15/03/2020</ses_data>
+<CINENOM>JCA Cinemes Lleida - Alpicat</CINENOM>
+<LOCALITAT>Alpicat</LOCALITAT>
+<COMARCA>Segrià</COMARCA>
+<CICLEID>57221</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200315</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32824</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37663</CINEID>
+<TITOL>Basia</TITOL>
+<ses_data>15/03/2020</ses_data>
+<CINENOM>La Patronal de Sant Quirze del Vallès</CINENOM>
+<LOCALITAT>Sant Quirze del Vallès</LOCALITAT>
+<COMARCA>Vallès Occidental</COMARCA>
+<CICLEID>57221</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200315</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32719</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37157</CINEID>
+<TITOL>Angry Birds 2: La pel·lícula</TITOL>
+<ses_data>15/03/2020</ses_data>
+<CINENOM>CAT Cines Figueres ACEC</CINENOM>
+<LOCALITAT>Figueres</LOCALITAT>
+<COMARCA>Alt Empordà</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200315</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32082</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37162</CINEID>
+<TITOL>El vent entre les canyes</TITOL>
+<ses_data>15/03/2020</ses_data>
+<CINENOM>JCA Cinemes Lleida - Alpicat</CINENOM>
+<LOCALITAT>Alpicat</LOCALITAT>
+<COMARCA>Segrià</COMARCA>
+<CICLEID>57221</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200315</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>28717</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37663</CINEID>
+<TITOL>L'estiu i la tardor al regne d'Escampeta</TITOL>
+<ses_data>15/03/2020</ses_data>
+<CINENOM>La Patronal de Sant Quirze del Vallès</CINENOM>
+<LOCALITAT>Sant Quirze del Vallès</LOCALITAT>
+<COMARCA>Vallès Occidental</COMARCA>
+<CICLEID>57221</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200315</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>28717</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37162</CINEID>
+<TITOL>L'estiu i la tardor al regne d'Escampeta</TITOL>
+<ses_data>15/03/2020</ses_data>
+<CINENOM>JCA Cinemes Lleida - Alpicat</CINENOM>
+<LOCALITAT>Alpicat</LOCALITAT>
+<COMARCA>Segrià</COMARCA>
+<CICLEID>57221</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200315</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32602</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37168</CINEID>
+<TITOL>Mascotes 2</TITOL>
+<ses_data>15/03/2020</ses_data>
+<CINENOM>Cines Olot</CINENOM>
+<LOCALITAT>Olot</LOCALITAT>
+<COMARCA>Garrotxa</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200315</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32575</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37323</CINEID>
+<TITOL>Toy Story 4</TITOL>
+<ses_data>15/03/2020</ses_data>
+<CINENOM>Centre Moral d'Arenys de Munt</CINENOM>
+<LOCALITAT>Arenys de Munt</LOCALITAT>
+<COMARCA>Maresme</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200315</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33009</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37197</CINEID>
+<TITOL>Frozen II</TITOL>
+<ses_data>15/03/2020</ses_data>
+<CINENOM>Teatre Cinema Armengol de Bellpuig</CINENOM>
+<LOCALITAT>Bellpuig</LOCALITAT>
+<COMARCA>Urgell</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200315</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32602</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37208</CINEID>
+<TITOL>Mascotes 2</TITOL>
+<ses_data>15/03/2020</ses_data>
+<CINENOM>Cines Filmax Gran Via 4DX de l'Hospitalet de Llobregat</CINENOM>
+<LOCALITAT>L’Hospitalet de Llobregat</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200315</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32575</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37177</CINEID>
+<TITOL>Toy Story 4</TITOL>
+<ses_data>15/03/2020</ses_data>
+<CINENOM>JCA Cinemes Tarragona - Valls</CINENOM>
+<LOCALITAT>Valls</LOCALITAT>
+<COMARCA>Alt Camp</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200315</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32575</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37313</CINEID>
+<TITOL>Toy Story 4</TITOL>
+<ses_data>15/03/2020</ses_data>
+<CINENOM>Teatre Principal de Lleida</CINENOM>
+<LOCALITAT>Lleida</LOCALITAT>
+<COMARCA>Segrià</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200315</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32082</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37663</CINEID>
+<TITOL>El vent entre les canyes</TITOL>
+<ses_data>15/03/2020</ses_data>
+<CINENOM>La Patronal de Sant Quirze del Vallès</CINENOM>
+<LOCALITAT>Sant Quirze del Vallès</LOCALITAT>
+<COMARCA>Vallès Occidental</COMARCA>
+<CICLEID>57221</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200315</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33262</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37417</CINEID>
+<TITOL>Operació Panda</TITOL>
+<ses_data>15/03/2020</ses_data>
+<CINENOM>Centre d'Entitats de Tamarit de Llitera</CINENOM>
+<LOCALITAT>Tamarit de Llitera</LOCALITAT>
+<COMARCA>Osca</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200315</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33262</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37194</CINEID>
+<TITOL>Operació Panda</TITOL>
+<ses_data>15/03/2020</ses_data>
+<CINENOM>Cinema Casal Montblanquí</CINENOM>
+<LOCALITAT>Montblanc</LOCALITAT>
+<COMARCA>Conca de Barberà</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200315</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33009</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37223</CINEID>
+<TITOL>Frozen II</TITOL>
+<ses_data>15/03/2020</ses_data>
+<CINENOM>Cine Goya de Mequinensa</CINENOM>
+<LOCALITAT>Mequinensa</LOCALITAT>
+<COMARCA>Saragossa</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200315</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32708</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37157</CINEID>
+<TITOL>Playmobil: La pel·lícula</TITOL>
+<ses_data>21/03/2020</ses_data>
+<CINENOM>CAT Cines Figueres ACEC</CINENOM>
+<LOCALITAT>Figueres</LOCALITAT>
+<COMARCA>Alt Empordà</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200321</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32708</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37168</CINEID>
+<TITOL>Playmobil: La pel·lícula</TITOL>
+<ses_data>21/03/2020</ses_data>
+<CINENOM>Cines Olot</CINENOM>
+<LOCALITAT>Olot</LOCALITAT>
+<COMARCA>Garrotxa</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200321</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33009</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37378</CINEID>
+<TITOL>Frozen II</TITOL>
+<ses_data>21/03/2020</ses_data>
+<CINENOM>Ocine Blanes</CINENOM>
+<LOCALITAT>Blanes</LOCALITAT>
+<COMARCA>Selva</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200321</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33081</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37147</CINEID>
+<TITOL>Namdev Bhau in search of silence</TITOL>
+<ses_data>21/03/2020</ses_data>
+<CINENOM>Cinemes Girona</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VOSC</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200321</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32474</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37189</CINEID>
+<TITOL>La Mia i el lleó blanc</TITOL>
+<ses_data>21/03/2020</ses_data>
+<CINENOM>Cinema Catalunya de Terrassa</CINENOM>
+<LOCALITAT>Terrassa</LOCALITAT>
+<COMARCA>Vallès Occidental</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200321</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33009</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37217</CINEID>
+<TITOL>Frozen II</TITOL>
+<ses_data>21/03/2020</ses_data>
+<CINENOM>Ocine El Vendrell – Les Mates</CINENOM>
+<LOCALITAT>El Vendrell</LOCALITAT>
+<COMARCA>Baix Penedès</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200321</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33009</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37160</CINEID>
+<TITOL>Frozen II</TITOL>
+<ses_data>21/03/2020</ses_data>
+<CINENOM>Ocine Girona</CINENOM>
+<LOCALITAT>Girona</LOCALITAT>
+<COMARCA>Gironès</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200321</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33040</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37229</CINEID>
+<TITOL>Bobby, l'eriçó</TITOL>
+<ses_data>21/03/2020</ses_data>
+<CINENOM>Cinema París de Solsona</CINENOM>
+<LOCALITAT>Solsona</LOCALITAT>
+<COMARCA>Solsonès</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200321</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33262</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37193</CINEID>
+<TITOL>Operació Panda</TITOL>
+<ses_data>21/03/2020</ses_data>
+<CINENOM>Cinema Casal d'Agramunt</CINENOM>
+<LOCALITAT>Agramunt</LOCALITAT>
+<COMARCA>Urgell</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200321</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33009</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37143</CINEID>
+<TITOL>Frozen II</TITOL>
+<ses_data>21/03/2020</ses_data>
+<CINENOM>Ocine Màgic Badalona</CINENOM>
+<LOCALITAT>Badalona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200321</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33009</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37161</CINEID>
+<TITOL>Frozen II</TITOL>
+<ses_data>21/03/2020</ses_data>
+<CINENOM>Ocine Granollers - El Nord</CINENOM>
+<LOCALITAT>Granollers</LOCALITAT>
+<COMARCA>Vallès Oriental</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200321</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33009</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37216</CINEID>
+<TITOL>Frozen II</TITOL>
+<ses_data>21/03/2020</ses_data>
+<CINENOM>Ocine Sant Celoni – Altrium</CINENOM>
+<LOCALITAT>Sant Celoni</LOCALITAT>
+<COMARCA>Vallès Oriental</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200321</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33009</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37218</CINEID>
+<TITOL>Frozen II</TITOL>
+<ses_data>21/03/2020</ses_data>
+<CINENOM>Ocine Vila-seca – Port Halley</CINENOM>
+<LOCALITAT>Vila-seca</LOCALITAT>
+<COMARCA>Tarragonès</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200321</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33009</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37174</CINEID>
+<TITOL>Frozen II</TITOL>
+<ses_data>21/03/2020</ses_data>
+<CINENOM>Ocine Tarragona - Les Gavarres</CINENOM>
+<LOCALITAT>Tarragona</LOCALITAT>
+<COMARCA>Tarragonès</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200321</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33009</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37210</CINEID>
+<TITOL>Frozen II</TITOL>
+<ses_data>21/03/2020</ses_data>
+<CINENOM>Ocine Platja d’Aro – Parc d’Aro</CINENOM>
+<LOCALITAT>Castell-Platja d’Aro</LOCALITAT>
+<COMARCA>Baix Empordà</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200321</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33009</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37213</CINEID>
+<TITOL>Frozen II</TITOL>
+<ses_data>21/03/2020</ses_data>
+<CINENOM>Ocine Roquetes</CINENOM>
+<LOCALITAT>Roquetes</LOCALITAT>
+<COMARCA>Baix Ebre</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200321</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32708</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37157</CINEID>
+<TITOL>Playmobil: La pel·lícula</TITOL>
+<ses_data>22/03/2020</ses_data>
+<CINENOM>CAT Cines Figueres ACEC</CINENOM>
+<LOCALITAT>Figueres</LOCALITAT>
+<COMARCA>Alt Empordà</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200322</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33009</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37179</CINEID>
+<TITOL>Frozen II</TITOL>
+<ses_data>22/03/2020</ses_data>
+<CINENOM>Kubrick Cinema de Vilafranca del Penedès</CINENOM>
+<LOCALITAT>Vilafranca del Penedès</LOCALITAT>
+<COMARCA>Alt Penedès</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200322</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33159</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37787</CINEID>
+<TITOL>Les vides de Marona</TITOL>
+<ses_data>22/03/2020</ses_data>
+<CINENOM>Cinema Truffaut de Girona</CINENOM>
+<LOCALITAT>Girona</LOCALITAT>
+<COMARCA>Gironès</COMARCA>
+<CICLEID>57222</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200322</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32824</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37468</CINEID>
+<TITOL>Basia</TITOL>
+<ses_data>22/03/2020</ses_data>
+<CINENOM>Cinema de La Unió Social de Flix</CINENOM>
+<LOCALITAT>Flix</LOCALITAT>
+<COMARCA>Ribera d'Ebre</COMARCA>
+<CICLEID>57221</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200322</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33040</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37417</CINEID>
+<TITOL>Bobby, l'eriçó</TITOL>
+<ses_data>22/03/2020</ses_data>
+<CINENOM>Centre d'Entitats de Tamarit de Llitera</CINENOM>
+<LOCALITAT>Tamarit de Llitera</LOCALITAT>
+<COMARCA>Osca</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200322</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33041</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37194</CINEID>
+<TITOL>Espies disfressats</TITOL>
+<ses_data>22/03/2020</ses_data>
+<CINENOM>Cinema Casal Montblanquí</CINENOM>
+<LOCALITAT>Montblanc</LOCALITAT>
+<COMARCA>Conca de Barberà</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200322</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32708</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37168</CINEID>
+<TITOL>Playmobil: La pel·lícula</TITOL>
+<ses_data>22/03/2020</ses_data>
+<CINENOM>Cines Olot</CINENOM>
+<LOCALITAT>Olot</LOCALITAT>
+<COMARCA>Garrotxa</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200322</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33040</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37223</CINEID>
+<TITOL>Bobby, l'eriçó</TITOL>
+<ses_data>22/03/2020</ses_data>
+<CINENOM>Cine Goya de Mequinensa</CINENOM>
+<LOCALITAT>Mequinensa</LOCALITAT>
+<COMARCA>Saragossa</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200322</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32082</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37177</CINEID>
+<TITOL>El vent entre les canyes</TITOL>
+<ses_data>22/03/2020</ses_data>
+<CINENOM>JCA Cinemes Tarragona - Valls</CINENOM>
+<LOCALITAT>Valls</LOCALITAT>
+<COMARCA>Alt Camp</COMARCA>
+<CICLEID>57221</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200322</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>28717</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37177</CINEID>
+<TITOL>L'estiu i la tardor al regne d'Escampeta</TITOL>
+<ses_data>22/03/2020</ses_data>
+<CINENOM>JCA Cinemes Tarragona - Valls</CINENOM>
+<LOCALITAT>Valls</LOCALITAT>
+<COMARCA>Alt Camp</COMARCA>
+<CICLEID>57221</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200322</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32824</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37177</CINEID>
+<TITOL>Basia</TITOL>
+<ses_data>22/03/2020</ses_data>
+<CINENOM>JCA Cinemes Tarragona - Valls</CINENOM>
+<LOCALITAT>Valls</LOCALITAT>
+<COMARCA>Alt Camp</COMARCA>
+<CICLEID>57221</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200322</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32082</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37468</CINEID>
+<TITOL>El vent entre les canyes</TITOL>
+<ses_data>22/03/2020</ses_data>
+<CINENOM>Cinema de La Unió Social de Flix</CINENOM>
+<LOCALITAT>Flix</LOCALITAT>
+<COMARCA>Ribera d'Ebre</COMARCA>
+<CICLEID>57221</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200322</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>28717</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37468</CINEID>
+<TITOL>L'estiu i la tardor al regne d'Escampeta</TITOL>
+<ses_data>22/03/2020</ses_data>
+<CINENOM>Cinema de La Unió Social de Flix</CINENOM>
+<LOCALITAT>Flix</LOCALITAT>
+<COMARCA>Ribera d'Ebre</COMARCA>
+<CICLEID>57221</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200322</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>28976</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37153</CINEID>
+<TITOL>Phantom Boy</TITOL>
+<ses_data>26/03/2020</ses_data>
+<CINENOM>Filmoteca de Catalunya</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200326</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32542</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37544</CINEID>
+<TITOL>Els dies que vindran</TITOL>
+<ses_data>26/03/2020</ses_data>
+<CINENOM>Cines Odeon d'Elx</CINENOM>
+<LOCALITAT>Elx</LOCALITAT>
+<COMARCA>Alacant</COMARCA>
+<CICLEID>57253</CICLEID>
+<ver>VO</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200326</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33376</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37419</CINEID>
+<TITOL>Anem a caçar un os</TITOL>
+<ses_data>27/03/2020</ses_data>
+<CINENOM>Pendent de confirmar</CINENOM>
+<LOCALITAT>Pendent de confirmar</LOCALITAT>
+<COMARCA>--</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200327</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>28976</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37153</CINEID>
+<TITOL>Phantom Boy</TITOL>
+<ses_data>27/03/2020</ses_data>
+<CINENOM>Filmoteca de Catalunya</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200327</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32680</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37323</CINEID>
+<TITOL>Maleïda 1882, l'aventura de Jacint Verdaguer a l'Aneto</TITOL>
+<ses_data>27/03/2020</ses_data>
+<CINENOM>Centre Moral d'Arenys de Munt</CINENOM>
+<LOCALITAT>Arenys de Munt</LOCALITAT>
+<COMARCA>Maresme</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VO</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200327</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32521</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37177</CINEID>
+<TITOL>Pokémon: Detectiu Pikachu</TITOL>
+<ses_data>28/03/2020</ses_data>
+<CINENOM>JCA Cinemes Tarragona - Valls</CINENOM>
+<LOCALITAT>Valls</LOCALITAT>
+<COMARCA>Alt Camp</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200328</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32824</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37301</CINEID>
+<TITOL>Basia</TITOL>
+<ses_data>28/03/2020</ses_data>
+<CINENOM>La Cate - Sala Teatre de Figueres</CINENOM>
+<LOCALITAT>Figueres</LOCALITAT>
+<COMARCA>Alt Empordà</COMARCA>
+<CICLEID>57221</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200328</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33041</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37210</CINEID>
+<TITOL>Espies disfressats</TITOL>
+<ses_data>28/03/2020</ses_data>
+<CINENOM>Ocine Platja d’Aro – Parc d’Aro</CINENOM>
+<LOCALITAT>Castell-Platja d’Aro</LOCALITAT>
+<COMARCA>Baix Empordà</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200328</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33041</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37218</CINEID>
+<TITOL>Espies disfressats</TITOL>
+<ses_data>28/03/2020</ses_data>
+<CINENOM>Ocine Vila-seca – Port Halley</CINENOM>
+<LOCALITAT>Vila-seca</LOCALITAT>
+<COMARCA>Tarragonès</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200328</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33084</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37147</CINEID>
+<TITOL>Oxygen</TITOL>
+<ses_data>28/03/2020</ses_data>
+<CINENOM>Cinemes Girona</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VOSC</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200328</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33041</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37160</CINEID>
+<TITOL>Espies disfressats</TITOL>
+<ses_data>28/03/2020</ses_data>
+<CINENOM>Ocine Girona</CINENOM>
+<LOCALITAT>Girona</LOCALITAT>
+<COMARCA>Gironès</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200328</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32719</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37168</CINEID>
+<TITOL>Angry Birds 2: La pel·lícula</TITOL>
+<ses_data>28/03/2020</ses_data>
+<CINENOM>Cines Olot</CINENOM>
+<LOCALITAT>Olot</LOCALITAT>
+<COMARCA>Garrotxa</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200328</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32521</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37313</CINEID>
+<TITOL>Pokémon: Detectiu Pikachu</TITOL>
+<ses_data>28/03/2020</ses_data>
+<CINENOM>Teatre Principal de Lleida</CINENOM>
+<LOCALITAT>Lleida</LOCALITAT>
+<COMARCA>Segrià</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200328</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33041</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37378</CINEID>
+<TITOL>Espies disfressats</TITOL>
+<ses_data>28/03/2020</ses_data>
+<CINENOM>Ocine Blanes</CINENOM>
+<LOCALITAT>Blanes</LOCALITAT>
+<COMARCA>Selva</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200328</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33041</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37174</CINEID>
+<TITOL>Espies disfressats</TITOL>
+<ses_data>28/03/2020</ses_data>
+<CINENOM>Ocine Tarragona - Les Gavarres</CINENOM>
+<LOCALITAT>Tarragona</LOCALITAT>
+<COMARCA>Tarragonès</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200328</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33041</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37213</CINEID>
+<TITOL>Espies disfressats</TITOL>
+<ses_data>28/03/2020</ses_data>
+<CINENOM>Ocine Roquetes</CINENOM>
+<LOCALITAT>Roquetes</LOCALITAT>
+<COMARCA>Baix Ebre</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200328</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33009</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37157</CINEID>
+<TITOL>Frozen II</TITOL>
+<ses_data>28/03/2020</ses_data>
+<CINENOM>CAT Cines Figueres ACEC</CINENOM>
+<LOCALITAT>Figueres</LOCALITAT>
+<COMARCA>Alt Empordà</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200328</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33041</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37143</CINEID>
+<TITOL>Espies disfressats</TITOL>
+<ses_data>28/03/2020</ses_data>
+<CINENOM>Ocine Màgic Badalona</CINENOM>
+<LOCALITAT>Badalona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200328</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32082</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37301</CINEID>
+<TITOL>El vent entre les canyes</TITOL>
+<ses_data>28/03/2020</ses_data>
+<CINENOM>La Cate - Sala Teatre de Figueres</CINENOM>
+<LOCALITAT>Figueres</LOCALITAT>
+<COMARCA>Alt Empordà</COMARCA>
+<CICLEID>57221</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200328</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33041</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37161</CINEID>
+<TITOL>Espies disfressats</TITOL>
+<ses_data>28/03/2020</ses_data>
+<CINENOM>Ocine Granollers - El Nord</CINENOM>
+<LOCALITAT>Granollers</LOCALITAT>
+<COMARCA>Vallès Oriental</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200328</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33041</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37216</CINEID>
+<TITOL>Espies disfressats</TITOL>
+<ses_data>28/03/2020</ses_data>
+<CINENOM>Ocine Sant Celoni – Altrium</CINENOM>
+<LOCALITAT>Sant Celoni</LOCALITAT>
+<COMARCA>Vallès Oriental</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200328</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33041</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37217</CINEID>
+<TITOL>Espies disfressats</TITOL>
+<ses_data>28/03/2020</ses_data>
+<CINENOM>Ocine El Vendrell – Les Mates</CINENOM>
+<LOCALITAT>El Vendrell</LOCALITAT>
+<COMARCA>Baix Penedès</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200328</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32852</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37229</CINEID>
+<TITOL>Spy Cat</TITOL>
+<ses_data>28/03/2020</ses_data>
+<CINENOM>Cinema París de Solsona</CINENOM>
+<LOCALITAT>Solsona</LOCALITAT>
+<COMARCA>Solsonès</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200328</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>28717</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37301</CINEID>
+<TITOL>L'estiu i la tardor al regne d'Escampeta</TITOL>
+<ses_data>28/03/2020</ses_data>
+<CINENOM>La Cate - Sala Teatre de Figueres</CINENOM>
+<LOCALITAT>Figueres</LOCALITAT>
+<COMARCA>Alt Empordà</COMARCA>
+<CICLEID>57221</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200328</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33009</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37157</CINEID>
+<TITOL>Frozen II</TITOL>
+<ses_data>29/03/2020</ses_data>
+<CINENOM>CAT Cines Figueres ACEC</CINENOM>
+<LOCALITAT>Figueres</LOCALITAT>
+<COMARCA>Alt Empordà</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200329</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32653</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37179</CINEID>
+<TITOL>Star Wars: L'ascens de Skywalker</TITOL>
+<ses_data>29/03/2020</ses_data>
+<CINENOM>Kubrick Cinema de Vilafranca del Penedès</CINENOM>
+<LOCALITAT>Vilafranca del Penedès</LOCALITAT>
+<COMARCA>Alt Penedès</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200329</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>31850</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37742</CINEID>
+<TITOL>Dilili a París</TITOL>
+<ses_data>29/03/2020</ses_data>
+<CINENOM>Centre cultural de Malgrat de Mar</CINENOM>
+<LOCALITAT>Malgrat de Mar</LOCALITAT>
+<COMARCA>Maresme</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200329</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32082</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37787</CINEID>
+<TITOL>El vent entre les canyes</TITOL>
+<ses_data>29/03/2020</ses_data>
+<CINENOM>Cinema Truffaut de Girona</CINENOM>
+<LOCALITAT>Girona</LOCALITAT>
+<COMARCA>Gironès</COMARCA>
+<CICLEID>57221</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200329</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>28717</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37787</CINEID>
+<TITOL>L'estiu i la tardor al regne d'Escampeta</TITOL>
+<ses_data>29/03/2020</ses_data>
+<CINENOM>Cinema Truffaut de Girona</CINENOM>
+<LOCALITAT>Girona</LOCALITAT>
+<COMARCA>Gironès</COMARCA>
+<CICLEID>57221</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200329</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32824</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37787</CINEID>
+<TITOL>Basia</TITOL>
+<ses_data>29/03/2020</ses_data>
+<CINENOM>Cinema Truffaut de Girona</CINENOM>
+<LOCALITAT>Girona</LOCALITAT>
+<COMARCA>Gironès</COMARCA>
+<CICLEID>57221</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200329</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32521</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37177</CINEID>
+<TITOL>Pokémon: Detectiu Pikachu</TITOL>
+<ses_data>29/03/2020</ses_data>
+<CINENOM>JCA Cinemes Tarragona - Valls</CINENOM>
+<LOCALITAT>Valls</LOCALITAT>
+<COMARCA>Alt Camp</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200329</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32719</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37168</CINEID>
+<TITOL>Angry Birds 2: La pel·lícula</TITOL>
+<ses_data>29/03/2020</ses_data>
+<CINENOM>Cines Olot</CINENOM>
+<LOCALITAT>Olot</LOCALITAT>
+<COMARCA>Garrotxa</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200329</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32521</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37313</CINEID>
+<TITOL>Pokémon: Detectiu Pikachu</TITOL>
+<ses_data>29/03/2020</ses_data>
+<CINENOM>Teatre Principal de Lleida</CINENOM>
+<LOCALITAT>Lleida</LOCALITAT>
+<COMARCA>Segrià</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200329</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33375</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37419</CINEID>
+<TITOL>Corre com una noia. No et rendeixis mai</TITOL>
+<ses_data>03/04/2020</ses_data>
+<CINENOM>Pendent de confirmar</CINENOM>
+<LOCALITAT>Pendent de confirmar</LOCALITAT>
+<COMARCA>--</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200403</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33040</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37157</CINEID>
+<TITOL>Bobby, l'eriçó</TITOL>
+<ses_data>04/04/2020</ses_data>
+<CINENOM>CAT Cines Figueres ACEC</CINENOM>
+<LOCALITAT>Figueres</LOCALITAT>
+<COMARCA>Alt Empordà</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200404</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33062</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37485</CINEID>
+<TITOL>Jacob, Mimi i els gossos del barri</TITOL>
+<ses_data>04/04/2020</ses_data>
+<CINENOM>Espai Cultura Fundació Sabadell 1859</CINENOM>
+<LOCALITAT>Sabadell</LOCALITAT>
+<COMARCA>Vallès Occidental</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200404</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33040</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37208</CINEID>
+<TITOL>Bobby, l'eriçó</TITOL>
+<ses_data>04/04/2020</ses_data>
+<CINENOM>Cines Filmax Gran Via 4DX de l'Hospitalet de Llobregat</CINENOM>
+<LOCALITAT>L’Hospitalet de Llobregat</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200404</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33040</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37157</CINEID>
+<TITOL>Bobby, l'eriçó</TITOL>
+<ses_data>05/04/2020</ses_data>
+<CINENOM>CAT Cines Figueres ACEC</CINENOM>
+<LOCALITAT>Figueres</LOCALITAT>
+<COMARCA>Alt Empordà</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200405</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33040</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37208</CINEID>
+<TITOL>Bobby, l'eriçó</TITOL>
+<ses_data>05/04/2020</ses_data>
+<CINENOM>Cines Filmax Gran Via 4DX de l'Hospitalet de Llobregat</CINENOM>
+<LOCALITAT>L’Hospitalet de Llobregat</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200405</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>31560</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37222</CINEID>
+<TITOL>Jurassic World: el regne caigut</TITOL>
+<ses_data>06/04/2020</ses_data>
+<CINENOM>Auditori de la Biblioteca Municipal Mestre Martí Tauler de Rubí</CINENOM>
+<LOCALITAT>Rubí</LOCALITAT>
+<COMARCA>Vallès Occidental</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200406</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33041</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37313</CINEID>
+<TITOL>Espies disfressats</TITOL>
+<ses_data>11/04/2020</ses_data>
+<CINENOM>Teatre Principal de Lleida</CINENOM>
+<LOCALITAT>Lleida</LOCALITAT>
+<COMARCA>Segrià</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200411</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33041</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37177</CINEID>
+<TITOL>Espies disfressats</TITOL>
+<ses_data>11/04/2020</ses_data>
+<CINENOM>JCA Cinemes Tarragona - Valls</CINENOM>
+<LOCALITAT>Valls</LOCALITAT>
+<COMARCA>Alt Camp</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200411</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33041</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37313</CINEID>
+<TITOL>Espies disfressats</TITOL>
+<ses_data>12/04/2020</ses_data>
+<CINENOM>Teatre Principal de Lleida</CINENOM>
+<LOCALITAT>Lleida</LOCALITAT>
+<COMARCA>Segrià</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200412</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>29975</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37301</CINEID>
+<TITOL>Ocells de pas</TITOL>
+<ses_data>12/04/2020</ses_data>
+<CINENOM>La Cate - Sala Teatre de Figueres</CINENOM>
+<LOCALITAT>Figueres</LOCALITAT>
+<COMARCA>Alt Empordà</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200412</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33041</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37177</CINEID>
+<TITOL>Espies disfressats</TITOL>
+<ses_data>12/04/2020</ses_data>
+<CINENOM>JCA Cinemes Tarragona - Valls</CINENOM>
+<LOCALITAT>Valls</LOCALITAT>
+<COMARCA>Alt Camp</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200412</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32680</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37660</CINEID>
+<TITOL>Maleïda 1882, l'aventura de Jacint Verdaguer a l'Aneto</TITOL>
+<ses_data>17/04/2020</ses_data>
+<CINENOM>Can Trona - Centre de Cultura i Natura de la Vall d'en Bas</CINENOM>
+<LOCALITAT>Joanetes (La Vall d'en Bas)</LOCALITAT>
+<COMARCA>Garrotxa</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VO</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200417</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32719</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37214</CINEID>
+<TITOL>Angry Birds 2: La pel·lícula</TITOL>
+<ses_data>18/04/2020</ses_data>
+<CINENOM>Atrium Cines de Sant Andreu de la Barca</CINENOM>
+<LOCALITAT>Sant Andreu de la Barca</LOCALITAT>
+<COMARCA>Baix Llobregat</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200418</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33009</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37189</CINEID>
+<TITOL>Frozen II</TITOL>
+<ses_data>18/04/2020</ses_data>
+<CINENOM>Cinema Catalunya de Terrassa</CINENOM>
+<LOCALITAT>Terrassa</LOCALITAT>
+<COMARCA>Vallès Occidental</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200418</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32719</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37208</CINEID>
+<TITOL>Angry Birds 2: La pel·lícula</TITOL>
+<ses_data>18/04/2020</ses_data>
+<CINENOM>Cines Filmax Gran Via 4DX de l'Hospitalet de Llobregat</CINENOM>
+<LOCALITAT>L’Hospitalet de Llobregat</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200418</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32852</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37157</CINEID>
+<TITOL>Spy Cat</TITOL>
+<ses_data>18/04/2020</ses_data>
+<CINENOM>CAT Cines Figueres ACEC</CINENOM>
+<LOCALITAT>Figueres</LOCALITAT>
+<COMARCA>Alt Empordà</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200418</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32719</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37208</CINEID>
+<TITOL>Angry Birds 2: La pel·lícula</TITOL>
+<ses_data>19/04/2020</ses_data>
+<CINENOM>Cines Filmax Gran Via 4DX de l'Hospitalet de Llobregat</CINENOM>
+<LOCALITAT>L’Hospitalet de Llobregat</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200419</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32852</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37157</CINEID>
+<TITOL>Spy Cat</TITOL>
+<ses_data>19/04/2020</ses_data>
+<CINENOM>CAT Cines Figueres ACEC</CINENOM>
+<LOCALITAT>Figueres</LOCALITAT>
+<COMARCA>Alt Empordà</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200419</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33062</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37742</CINEID>
+<TITOL>Jacob, Mimi i els gossos del barri</TITOL>
+<ses_data>19/04/2020</ses_data>
+<CINENOM>Centre cultural de Malgrat de Mar</CINENOM>
+<LOCALITAT>Malgrat de Mar</LOCALITAT>
+<COMARCA>Maresme</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200419</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>30584</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37428</CINEID>
+<TITOL>El bosc de Haquivaqui</TITOL>
+<ses_data>25/04/2020</ses_data>
+<CINENOM>CaixaForum Barcelona</CINENOM>
+<LOCALITAT>Barcelona</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200425</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33009</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37189</CINEID>
+<TITOL>Frozen II</TITOL>
+<ses_data>25/04/2020</ses_data>
+<CINENOM>Cinema Catalunya de Terrassa</CINENOM>
+<LOCALITAT>Terrassa</LOCALITAT>
+<COMARCA>Vallès Occidental</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200425</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33041</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37157</CINEID>
+<TITOL>Espies disfressats</TITOL>
+<ses_data>25/04/2020</ses_data>
+<CINENOM>CAT Cines Figueres ACEC</CINENOM>
+<LOCALITAT>Figueres</LOCALITAT>
+<COMARCA>Alt Empordà</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200425</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32719</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37179</CINEID>
+<TITOL>Angry Birds 2: La pel·lícula</TITOL>
+<ses_data>26/04/2020</ses_data>
+<CINENOM>Kubrick Cinema de Vilafranca del Penedès</CINENOM>
+<LOCALITAT>Vilafranca del Penedès</LOCALITAT>
+<COMARCA>Alt Penedès</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200426</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33041</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37157</CINEID>
+<TITOL>Espies disfressats</TITOL>
+<ses_data>26/04/2020</ses_data>
+<CINENOM>CAT Cines Figueres ACEC</CINENOM>
+<LOCALITAT>Figueres</LOCALITAT>
+<COMARCA>Alt Empordà</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200426</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>29925</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37222</CINEID>
+<TITOL>Bèsties fantàstiques i on trobar-les</TITOL>
+<ses_data>04/05/2020</ses_data>
+<CINENOM>Auditori de la Biblioteca Municipal Mestre Martí Tauler de Rubí</CINENOM>
+<LOCALITAT>Rubí</LOCALITAT>
+<COMARCA>Vallès Occidental</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200504</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32708</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37214</CINEID>
+<TITOL>Playmobil: La pel·lícula</TITOL>
+<ses_data>09/05/2020</ses_data>
+<CINENOM>Atrium Cines de Sant Andreu de la Barca</CINENOM>
+<LOCALITAT>Sant Andreu de la Barca</LOCALITAT>
+<COMARCA>Baix Llobregat</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200509</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32708</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37208</CINEID>
+<TITOL>Playmobil: La pel·lícula</TITOL>
+<ses_data>09/05/2020</ses_data>
+<CINENOM>Cines Filmax Gran Via 4DX de l'Hospitalet de Llobregat</CINENOM>
+<LOCALITAT>L’Hospitalet de Llobregat</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200509</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33062</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37670</CINEID>
+<TITOL>Jacob, Mimi i els gossos del barri</TITOL>
+<ses_data>10/05/2020</ses_data>
+<CINENOM>Cineclub Adler - Teatre Municipal de Lloret de Mar</CINENOM>
+<LOCALITAT>Lloret de Mar</LOCALITAT>
+<COMARCA>Selva</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200510</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32708</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37208</CINEID>
+<TITOL>Playmobil: La pel·lícula</TITOL>
+<ses_data>10/05/2020</ses_data>
+<CINENOM>Cines Filmax Gran Via 4DX de l'Hospitalet de Llobregat</CINENOM>
+<LOCALITAT>L’Hospitalet de Llobregat</LOCALITAT>
+<COMARCA>Barcelonès</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200510</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>31509</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37301</CINEID>
+<TITOL>Laban i Labolina</TITOL>
+<ses_data>10/05/2020</ses_data>
+<CINENOM>La Cate - Sala Teatre de Figueres</CINENOM>
+<LOCALITAT>Figueres</LOCALITAT>
+<COMARCA>Alt Empordà</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200510</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33062</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37189</CINEID>
+<TITOL>Jacob, Mimi i els gossos del barri</TITOL>
+<ses_data>16/05/2020</ses_data>
+<CINENOM>Cinema Catalunya de Terrassa</CINENOM>
+<LOCALITAT>Terrassa</LOCALITAT>
+<COMARCA>Vallès Occidental</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200516</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>31226</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37742</CINEID>
+<TITOL>La revolta dels contes</TITOL>
+<ses_data>17/05/2020</ses_data>
+<CINENOM>Centre cultural de Malgrat de Mar</CINENOM>
+<LOCALITAT>Malgrat de Mar</LOCALITAT>
+<COMARCA>Maresme</COMARCA>
+<CICLEID>1</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200517</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33009</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37222</CINEID>
+<TITOL>Frozen II</TITOL>
+<ses_data>18/05/2020</ses_data>
+<CINENOM>Auditori de la Biblioteca Municipal Mestre Martí Tauler de Rubí</CINENOM>
+<LOCALITAT>Rubí</LOCALITAT>
+<COMARCA>Vallès Occidental</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200518</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>33062</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37189</CINEID>
+<TITOL>Jacob, Mimi i els gossos del barri</TITOL>
+<ses_data>23/05/2020</ses_data>
+<CINENOM>Cinema Catalunya de Terrassa</CINENOM>
+<LOCALITAT>Terrassa</LOCALITAT>
+<COMARCA>Vallès Occidental</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200523</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32852</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37189</CINEID>
+<TITOL>Spy Cat</TITOL>
+<ses_data>20/06/2020</ses_data>
+<CINENOM>Cinema Catalunya de Terrassa</CINENOM>
+<LOCALITAT>Terrassa</LOCALITAT>
+<COMARCA>Vallès Occidental</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200620</ORDRESESSIO>
+</SESSIONS>
+<SESSIONS>
+<IDFILM>32852</IDFILM>
+<ses_id>1</ses_id>
+<CINEID>37189</CINEID>
+<TITOL>Spy Cat</TITOL>
+<ses_data>27/06/2020</ses_data>
+<CINENOM>Cinema Catalunya de Terrassa</CINENOM>
+<LOCALITAT>Terrassa</LOCALITAT>
+<COMARCA>Vallès Occidental</COMARCA>
+<CICLEID>57141</CICLEID>
+<ver>VD</ver>
+<preu>0</preu>
+<ORDRESESSIO>20200627</ORDRESESSIO>
+</SESSIONS>
+</dataroot>

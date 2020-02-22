@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="dataroot" type="datarootType"/>
+  <xs:complexType name="CICLEType">
+    <xs:sequence>
+      <xs:element name="CICLEID">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="57141"/>
+            <xs:enumeration value="57142"/>
+            <xs:enumeration value="57253"/>
+            <xs:enumeration value="57261"/>
+            <xs:enumeration value="57222"/>
+            <xs:enumeration value="57257"/>
+            <xs:enumeration value="57262"/>
+            <xs:enumeration value="57221"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="CICLENOM">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="CINC"/>
+            <xs:enumeration value="DocsBarcelona del Mes"/>
+            <xs:enumeration value="Cicle de cinema en valencià"/>
+            <xs:enumeration value="FilmoXarxa"/>
+            <xs:enumeration value="Le Petit Truffaut"/>
+            <xs:enumeration value="Òmnium Catalunya Nord"/>
+            <xs:enumeration value="Premis VOC - Mostra d’Audiovisual en Català"/>
+            <xs:enumeration value="Un Dia de Festa"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="CICLEINFO">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="El CINC és una iniciativa de la Direcció General de Política Lingüística del Departament de Cultura per fer créixer l’oferta i el consum de cinema infantil en català, amb la col·laboració del Consorci per a la Normalització Lingüística i de diversos ajuntaments, institucions, entitats i cinemes."/>
+            <xs:enumeration value="El Documental del Mes és una iniciativa de la productora Parallel 40 per incrementar la presència del documental europeu a les pantalles cinematogràfiques."/>
+            <xs:enumeration value="La Universitat Miguel Hernández d’Elx organitza novament un nou cicle de cinema en valencià a la sala Òdeon amb la col·laboració d’El Tempir, l’Institut d’Estudis Comarcals del Baix Vinalopó, ACPV-Casal Elx, el Cineclub Luis Buñuel, les universitats públiques valencianes i el cinema Òdeon d’Elx."/>
+            <xs:enumeration value="FilmoXarxa és una iniciativa per ajudar a distribuir per tota la geografia catalana films subtitulats en català que fins ara no han trobat acollida dins dels circuits comercials habituals. Aquest cicle té el suport de la Direcció General de Política Lingüística del Departament de Cultura."/>
+            <xs:enumeration value="Espai de cinema infantil, dedicat als més petits de la casa, que pretén vetllar per a garantir que el cinema infantil per als més exigents tingui el seu espai a la ciutat de Girona. Un espai on els nens i nenes vegin i sentin el cinema d’una manera diferent, ampliant les reduïdes opcions que es troben als cinemes convencionals."/>
+            <xs:enumeration value="Cinema en català als pobles de Catalunya Nord, organitzat per Òmnium Catalunya Nord."/>
+            <xs:enumeration value="4a edició dels Premis VOC -Versió Original en Català-, premis i mostra especialitzada en curtmetratges de ficció i documentals en llengua catalana que organitza Òmnium Cultural, amb la finalitat d’estimular la producció de continguts audiovisuals de qualitat en llengua catalana, contribuir a la seva difusió i ampliar-ne el públic. La mostra es podrà veure a més de 30 seus dels Països Catalans i d’Europa."/>
+            <xs:enumeration value="4a edició d'Un Dia de Festa, la Festa del Cinema Infantil en Català, un matí o tarda de cinema familiar, música, teatre i festa. Una proposta cultural a partir de 3 anys que presenta una nova manera d’anar al cinema amb els infants."/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="IMGCICLE">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="cinqueta.jpg"/>
+            <xs:enumeration value="docsbarcelonadelmes_cicle.jpg"/>
+            <xs:enumeration value="cicledecinemaenvalencia2020_cicle.jpg"/>
+            <xs:enumeration value="filmoxarxa_cicle.jpg"/>
+            <xs:enumeration value="lepetittruffaut2020_cicle.jpg"/>
+            <xs:enumeration value="omniumcatalunyanord_cicle.jpg"/>
+            <xs:enumeration value="vocpremismostraaudiovisualencatala.jpg"/>
+            <xs:enumeration value="undiadefesta2020_cicle.jpg"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element type="xs:string" name="WEB" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="datarootType">
+    <xs:sequence>
+      <xs:element type="CICLEType" name="CICLE" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+    <xs:attribute type="xs:string" name="generated"/>
+  </xs:complexType>
+</xs:schema>

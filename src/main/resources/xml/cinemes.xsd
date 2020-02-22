@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="dataroot" type="datarootType"/>
+  <xs:complexType name="CINEMESType">
+    <xs:sequence>
+      <xs:element type="xs:string" name="CINEID"/>
+      <xs:element type="xs:string" name="CINENOM"/>
+      <xs:element type="xs:string" name="CINEADRECA"/>
+      <xs:element type="xs:string" name="LOCALITAT"/>
+      <xs:element type="xs:string" name="COMARCA"/>
+      <xs:element name="PROVINCIA">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="BARCELONA"/>
+            <xs:enumeration value="GIRONA"/>
+            <xs:enumeration value="LLEIDA"/>
+            <xs:enumeration value="TARRAGONA"/>
+            <xs:enumeration value="ANDORRA"/>
+            <xs:enumeration value="ILLES BALEARS"/>
+            <xs:enumeration value="--"/>
+            <xs:enumeration value="VALÈNCIA"/>
+            <xs:enumeration value="FRANÇA"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="datarootType">
+    <xs:sequence>
+      <xs:element type="CINEMESType" name="CINEMES" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+    <xs:attribute type="xs:string" name="generated"/>
+  </xs:complexType>
+</xs:schema>

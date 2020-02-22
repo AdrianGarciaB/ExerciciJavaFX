@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="dataroot" type="datarootType"/>
+  <xs:complexType name="SESSIONSType">
+    <xs:sequence>
+      <xs:element type="xs:string" name="IDFILM"/>
+      <xs:element type="xs:string" name="ses_id"/>
+      <xs:element type="xs:string" name="CINEID"/>
+      <xs:element type="xs:string" name="TITOL"/>
+      <xs:element type="xs:string" name="ses_data"/>
+      <xs:element type="xs:string" name="CINENOM"/>
+      <xs:element type="xs:string" name="LOCALITAT"/>
+      <xs:element type="xs:string" name="COMARCA"/>
+      <xs:element name="CICLEID">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="1"/>
+            <xs:enumeration value="57257"/>
+            <xs:enumeration value="57142"/>
+            <xs:enumeration value="57261"/>
+            <xs:enumeration value="57141"/>
+            <xs:enumeration value="57222"/>
+            <xs:enumeration value="57253"/>
+            <xs:enumeration value="57221"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="ver">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="VD"/>
+            <xs:enumeration value="VO"/>
+            <xs:enumeration value="VOSC"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element type="xs:string" name="preu"/>
+      <xs:element type="xs:string" name="ORDRESESSIO"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="datarootType">
+    <xs:sequence>
+      <xs:element type="SESSIONSType" name="SESSIONS" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+    <xs:attribute type="xs:string" name="generated"/>
+  </xs:complexType>
+</xs:schema>

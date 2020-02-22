@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="dataroot" type="datarootType"/>
+  <xs:complexType name="FILMType">
+    <xs:sequence>
+      <xs:element type="xs:string" name="IDFILM"/>
+      <xs:element type="xs:string" name="PRIORITAT"/>
+      <xs:element type="xs:string" name="TITOL"/>
+      <xs:element type="xs:string" name="SITUACIO"/>
+      <xs:element type="xs:string" name="ANY"/>
+      <xs:element type="xs:string" name="CARTELL"/>
+      <xs:element type="xs:string" name="ORIGINAL"/>
+      <xs:element type="xs:string" name="DIRECCIO"/>
+      <xs:element type="xs:string" name="INTERPRETS"/>
+      <xs:element type="xs:string" name="SINOPSI"/>
+      <xs:element name="VERSIO">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="Doblada"/>
+            <xs:enumeration value="VO"/>
+            <xs:enumeration value="VOSC"/>
+            <xs:enumeration value="Doblada i VOSC"/>
+            <xs:enumeration value="Doblada i subtitulada en català"/>
+            <xs:enumeration value="Muda amb intertítols en català"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element type="xs:string" name="IDIOMA_x0020_ORIGINAL"/>
+      <xs:element type="xs:string" name="QUALIFICACIO"/>
+      <xs:element type="xs:string" name="TRAILER"/>
+      <xs:element type="xs:string" name="WEB"/>
+      <xs:element type="xs:string" name="ESTRENA"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="datarootType">
+    <xs:sequence>
+      <xs:element type="FILMType" name="FILM" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+    <xs:attribute type="xs:string" name="generated"/>
+  </xs:complexType>
+</xs:schema>

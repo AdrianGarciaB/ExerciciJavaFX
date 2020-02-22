@@ -107,7 +107,7 @@ public class Controller implements Initializable, EventHandler<MouseEvent> {
                     });
         });
 
-        if (hBoxCicles.getChildren().size()<=1) hBoxCicles.getChildren().add(new Label("Aquesta pelicula no hi es relacionada amb cap cicle."));
+        if (hBoxCicles.getChildren().size()<1) hBoxCicles.getChildren().add(new Label("Aquesta pelicula no hi es relacionada amb cap cicle."));
     }
 
     private void cargarCinemes(final String idPelicula) {

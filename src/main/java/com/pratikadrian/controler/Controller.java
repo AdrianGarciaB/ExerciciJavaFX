@@ -44,8 +44,7 @@ public class Controller implements Initializable {
     @FXML TableView<SessionsColumns> sessionsTable;
     @FXML PieChart pieChart01;
     @FXML PieChart pieChart00;
-
-    private TableColumn titolColumn, dataColumn, localitatColumn, comarcaColumn;
+    @FXML private TableColumn titolColumn, dataColumn, localitatColumn, comarcaColumn;
     private ObservableList<PieChart.Data> dataCharts;
     private List<Integer> dadesInts = new ArrayList<>();
     private ObservableList<PieChart.Data> dataCharts0;

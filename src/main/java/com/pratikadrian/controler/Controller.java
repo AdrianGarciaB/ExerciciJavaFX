@@ -30,79 +30,43 @@ import java.util.*;
 import java.util.stream.Collectors;
 
 
-public class Controller implements Initializable, EventHandler<MouseEvent> {
+public class Controller implements Initializable {
+    @FXML public VBox vbox1;
+    @FXML public GridPane pelisGrid;
+    @FXML public Label titoltop, titol, situacio, any, titolOriginal, direccio, interprets, versio, idioma, descripcio;
+    @FXML public HBox hBoxCicles;
+    @FXML public WebView trailerWebView;
+    @FXML TabPane paneTab;
+    @FXML public HBox hBoxNpaginas;
+    @FXML ImageView peliculasImageView;
+    @FXML MediaView peliculasMediaView;
+    @FXML ListView<String> cinemesListView;
+    @FXML TableView<SessionsColumns> sessionsTable;
+    @FXML PieChart pieChart01;
+    @FXML PieChart pieChart00;
 
-    @FXML
-    public VBox vbox1;
-
-    @FXML
-    public GridPane pelisGrid;
-
-    @FXML
-    public Label titoltop, titol, situacio, any, titolOriginal, direccio, interprets, versio, idioma, descripcio;
-    public TableColumn titolColumn, dataColumn, localitatColumn, comarcaColumn;
-
-    @FXML
-    public HBox hBoxCicles;
-
-    @FXML
-    public WebView trailerWebView;
-
-    @FXML
-    TabPane paneTab;
-
-    @FXML
-    public HBox hBoxNpaginas;
-
-    @FXML
-    ImageView peliculasImageView;
-
-    @FXML
-    MediaView peliculasMediaView;
-
-    @FXML
-    ListView<String> cinemesListView;
-    @FXML
-    TableView<SessionsColumns> sessionsTable;
-
+    private TableColumn titolColumn, dataColumn, localitatColumn, comarcaColumn;
     private ObservableList<PieChart.Data> dataCharts;
     private List<Integer> dadesInts = new ArrayList<>();
-
-    @FXML
-    PieChart pieChart01;
-
-    @FXML
-    PieChart pieChart00;
     private ObservableList<PieChart.Data> dataCharts0;
     private List<Integer> dadesInts0 = new ArrayList<>();
-
     private ObservableList<String> sessions = FXCollections.observableArrayList();
     private ObservableList<String> cinemes = FXCollections.observableArrayList();
-
-    @FXML
-    private void handleButton1Click(ActionEvent actionEvent){
-        System.out.println("Hola " + ((Button) actionEvent.getSource()).getId());
-    }
-
-    Pelicules pelicules = JAXB.unmarshal("http://gencat.cat/llengua/cinema/provacin.xml", Pelicules.class);
-    Cinemes cines = JAXB.unmarshal("http://gencat.cat/llengua/cinema/cinemes.xml", Cinemes.class);
-    Sessions session = JAXB.unmarshal("http://gencat.cat/llengua/cinema/film_sessions.xml", Sessions.class);
-    Cicles ciclos = JAXB.unmarshal("http://gencat.cat/llengua/cinema/cicles.xml", Cicles.class);
+    private Pelicules pelicules = JAXB.unmarshal("http://gencat.cat/llengua/cinema/provacin.xml", Pelicules.class);
+    private Cinemes cines = JAXB.unmarshal("http://gencat.cat/llengua/cinema/cinemes.xml", Cinemes.class);
+    private Sessions session = JAXB.unmarshal("http://gencat.cat/llengua/cinema/film_sessions.xml", Sessions.class);
+    private Cicles ciclos = JAXB.unmarshal("http://gencat.cat/llengua/cinema/cicles.xml", Cicles.class);
 
     @Override
     public void initialize(URL url, ResourceBundle resourceBundle) {
-        System.out.println("Hello world!");
+        /* Cargamos las estadisticas de los cines */
         cargarCinesPorProvincia();
         cargarCinesPorLocalidad();
-        paneTab.getSelectionModel().selectedItemProperty().addListener(
-                new ChangeListener<Tab>() {
-                    @Override
-                    public void changed(ObservableValue<? extends Tab> ov, Tab t, Tab t1) {
-                        System.out.println("http://gencat.cat/llengua/cinema/"+ pelicules.getFILM().get(2).getCARTELL());
-                    }
-                }
-        );
-//    public TableColumn titolColumn, dataColumn, localitatColumn, comarcaColumn;
+
+        /*
+        Cargamos una pelicula por defecto en la pestaña de pelicula en caso de
+        que no se selecionara previamente.
+         */
         cargarPestanyaPelicula(2);
         generatePeliculas(0, pelicules);
         cargarCinemes(pelicules.getFILM().get(2).getIDFILM());
@@ -113,7 +77,6 @@ public class Controller implements Initializable, EventHandler<MouseEvent> {
 
     private void cargarCinesPorProvincia(){
         dataCharts = FXCollections.observableArrayList();
-
         Map<String, Long> provinceCount = cines.getCINEMES().stream()
                 .filter(cinema -> !cinema.getCOMARCA().equals("--"))
                 .collect(Collectors.groupingBy(Cinema::getPROVINCIA, Collectors.counting()));
@@ -123,12 +86,10 @@ public class Controller implements Initializable, EventHandler<MouseEvent> {
         });
         pieChart01.setData(dataCharts);
         pieChart01.setTitle("Provincias con mas cines.");
-
     }
 
     private void cargarCinesPorLocalidad(){
         dataCharts0 = FXCollections.observableArrayList();
-
         Map<String, Long> cinemes =
                 cines.getCINEMES().stream()
                         .collect(Collectors.groupingBy(Cinema::getCOMARCA, Collectors.counting()));
@@ -183,11 +144,8 @@ public class Controller implements Initializable, EventHandler<MouseEvent> {
         });
     }
 
-
-
     private void cargarSessions(String nomCine, String idPelicula){
         sessionsTable.getItems().clear();
-
         titolColumn.setCellValueFactory(new PropertyValueFactory<>("titol"));
         dataColumn.setCellValueFactory(new PropertyValueFactory<>("data"));
         localitatColumn.setCellValueFactory(new PropertyValueFactory<>("localitat"));
@@ -196,16 +154,16 @@ public class Controller implements Initializable, EventHandler<MouseEvent> {
                 .filter(sessio -> sessio.getCINENOM().equals(nomCine))
                 .filter(sessio -> sessio.getIDFILM().equals(idPelicula))
                 .forEach(sessio -> {
+                    // Cuando hacemos click en la pelicula cargamos los datos de esta.
                     System.out.println(sessio.getTITOL());
                     sessionsTable.getItems().addAll(new SessionsColumns(sessio.getTITOL(), sessio.getSesData(), sessio.getLOCALITAT(), sessio.getLOCALITAT()));
+                    trailerWebView.getEngine().load("http://youtube.com/embed/" + sessio.getIDFILM().equals(idPelicula));
                 });
     }
 
-
+    // Generamos el indice para poder navegar entre las listas de pelicula.
     public void generatePages(int actual, int max){
         hBoxNpaginas.getChildren().clear();
-
-
         for (int i = 1; i <= actual+10 && i < max+1; i++) {
             Button button = new Button();
             button.setText(String.valueOf(i));
@@ -253,6 +211,7 @@ public class Controller implements Initializable, EventHandler<MouseEvent> {
         }
     }
 
+    // Cargamos datos de la pelicula que deseamos.
     public void cargarPestanyaPelicula(int idPelicula){
         Pelicula pelicula = pelicules.getFILM().get(idPelicula);
         peliculasImageView.setImage(new Image("http://gencat.cat/llengua/cinema/"+ pelicula.getCARTELL()));
@@ -267,9 +226,5 @@ public class Controller implements Initializable, EventHandler<MouseEvent> {
         versio.setText("Versio: " + pelicula.getVERSIO());
         idioma.setText("Idioma Original: " + pelicula.getIDIOMAX0020ORIGINAL());
         descripcio.setText("Descripcio: " +pelicula.getSINOPSI());
-    }
-
-    @Override
-    public void handle(MouseEvent mouseEvent) {
     }
 }

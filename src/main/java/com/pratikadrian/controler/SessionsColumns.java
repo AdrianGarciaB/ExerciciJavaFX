@@ -1,5 +1,8 @@
 package com.pratikadrian.controler;
 
+/*
+Clase para guardar datos de la tabla de sessiones.
+ */
 public class SessionsColumns {
     public final String titol, data, localitat, comarca;
 

@@ -9,6 +9,10 @@ import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
 import javafx.fxml.FXML;
 import javafx.fxml.Initializable;
+import javafx.scene.chart.BarChart;
+import javafx.scene.chart.CategoryAxis;
+import javafx.scene.chart.NumberAxis;
+import javafx.scene.chart.PieChart;
 import javafx.scene.control.*;
 import javafx.scene.control.cell.PropertyValueFactory;
 import javafx.scene.image.Image;
@@ -18,11 +22,12 @@ import javafx.scene.layout.GridPane;
 import javafx.scene.layout.HBox;
 import javafx.scene.layout.VBox;
 import javafx.scene.media.MediaView;
+import javafx.scene.web.WebView;
 
 import javax.xml.bind.JAXB;
 import java.net.URL;
-import java.util.HashSet;
-import java.util.ResourceBundle;
+import java.util.*;
+import java.util.stream.Collectors;
 
 
 public class Controller implements Initializable, EventHandler<MouseEvent> {
@@ -39,6 +44,10 @@ public class Controller implements Initializable, EventHandler<MouseEvent> {
 
     @FXML
     public HBox hBoxCicles;
+
+    @FXML
+    public WebView trailerWebView;
+
     @FXML
     TabPane paneTab;
 
@@ -56,6 +65,17 @@ public class Controller implements Initializable, EventHandler<MouseEvent> {
     @FXML
     TableView<SessionsColumns> sessionsTable;
 
+    private ObservableList<PieChart.Data> dataCharts;
+    private List<Integer> dadesInts = new ArrayList<>();
+
+    @FXML
+    PieChart pieChart01;
+
+    @FXML
+    PieChart pieChart00;
+    private ObservableList<PieChart.Data> dataCharts0;
+    private List<Integer> dadesInts0 = new ArrayList<>();
+
     private ObservableList<String> sessions = FXCollections.observableArrayList();
     private ObservableList<String> cinemes = FXCollections.observableArrayList();
 
@@ -72,6 +92,8 @@ public class Controller implements Initializable, EventHandler<MouseEvent> {
     @Override
     public void initialize(URL url, ResourceBundle resourceBundle) {
         System.out.println("Hello world!");
+        cargarCinesPorProvincia();
+        cargarCinesPorLocalidad();
         paneTab.getSelectionModel().selectedItemProperty().addListener(
                 new ChangeListener<Tab>() {
                     @Override
@@ -85,6 +107,37 @@ public class Controller implements Initializable, EventHandler<MouseEvent> {
         generatePeliculas(0, pelicules);
         cargarCinemes(pelicules.getFILM().get(2).getIDFILM());
         cargarCicles(pelicules.getFILM().get(2).getIDFILM());
+        trailerWebView.setMaxHeight(350);
+        trailerWebView.getEngine().load("http://youtube.com/embed/" + pelicules.getFILM().get(2).getTRAILER());
+    }
+
+    private void cargarCinesPorProvincia(){
+        dataCharts = FXCollections.observableArrayList();
+
+        Map<String, Long> provinceCount = cines.getCINEMES().stream()
+                .filter(cinema -> !cinema.getCOMARCA().equals("--"))
+                .collect(Collectors.groupingBy(Cinema::getPROVINCIA, Collectors.counting()));
+
+        provinceCount.forEach((provincia,valor) -> {
+            dataCharts.add(new PieChart.Data(provincia,valor));
+        });
+        pieChart01.setData(dataCharts);
+        pieChart01.setTitle("Provincias con mas cines.");
+
+    }
+
+    private void cargarCinesPorLocalidad(){
+        dataCharts0 = FXCollections.observableArrayList();
+
+        Map<String, Long> cinemes =
+                cines.getCINEMES().stream()
+                        .collect(Collectors.groupingBy(Cinema::getCOMARCA, Collectors.counting()));
+
+        cinemes.forEach((localitat,valor) -> {
+            dataCharts0.add(new PieChart.Data(localitat ,valor));
+        });
+        pieChart00.setData(dataCharts0);
+        pieChart00.setTitle("Localidades con mas cines.");
     }
 
     private void cargarCicles(String idPelicula){

@@ -18,7 +18,7 @@ import javax.xml.bind.JAXBException;
 public class Main extends Application  {
     public static void main(String[] args) throws JAXBException {
         launch(args);
-
+        Pelicules pelicules = JAXB.unmarshal("http://gencat.cat/llengua/cinema/provacin.xml", Pelicules.class);
         Cicles ciclos = JAXB.unmarshal("http://gencat.cat/llengua/cinema/cicles.xml", Cicles.class);
         Cinemes cines = JAXB.unmarshal("http://gencat.cat/llengua/cinema/cinemes.xml", Cinemes.class);
         Sessions session = JAXB.unmarshal("http://gencat.cat/llengua/cinema/film_sessions.xml", Sessions.class);

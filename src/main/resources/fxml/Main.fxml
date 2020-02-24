@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <?import javafx.geometry.Insets?>
-<?import javafx.scene.chart.BarChart?>
-<?import javafx.scene.chart.CategoryAxis?>
-<?import javafx.scene.chart.NumberAxis?>
+<?import javafx.scene.chart.PieChart?>
 <?import javafx.scene.control.Button?>
 <?import javafx.scene.control.Label?>
 <?import javafx.scene.control.ListView?>
@@ -22,6 +20,7 @@
 <?import javafx.scene.layout.VBox?>
 <?import javafx.scene.media.MediaView?>
 <?import javafx.scene.text.Font?>
+<?import javafx.scene.web.WebView?>
 
 <AnchorPane fx:id="ap" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="1026.0" prefWidth="1280.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.pratikadrian.controler.Controller">
   <children>
@@ -152,6 +151,7 @@
                                        </GridPane.margin>
                                     </VBox>
                                     <MediaView fx:id="peliculasMediaView" fitHeight="200.0" fitWidth="200.0" nodeOrientation="INHERIT" GridPane.columnIndex="2" />
+                                    <WebView fx:id="trailerWebView" prefHeight="200.0" prefWidth="200.0" GridPane.columnIndex="2" />
                                  </children>
                               </GridPane>
                               <GridPane prefHeight="335.0" prefWidth="1280.0">
@@ -191,12 +191,12 @@
                                                       <Font name="Amiri Bold Slanted" size="18.0" />
                                                    </font>
                                                 </Label>
-                                                <TextField alignment="BOTTOM_LEFT" cache="true" mouseTransparent="true" text="Buscar">
+                                                <TextField alignment="BOTTOM_LEFT" editable="false" mouseTransparent="true" text="Buscar">
                                                    <HBox.margin>
                                                       <Insets left="40.0" top="11.0" />
                                                    </HBox.margin>
                                                 </TextField>
-                                                <Button alignment="CENTER_RIGHT" mnemonicParsing="false" text="🔍">
+                                                <Button alignment="CENTER_RIGHT" mnemonicParsing="false" prefHeight="27.0" prefWidth="39.0" text="🔍">
                                                    <HBox.margin>
                                                       <Insets left="10.0" top="11.0" />
                                                    </HBox.margin>
@@ -240,20 +240,20 @@
               </content>
             </Tab>
         <Tab style="-fx-background-color: #92b9b9;" text="BarChart">
-          <content>
-            <BarChart fx:id="barChart01">
-              <xAxis>
-                <CategoryAxis side="BOTTOM" fx:id="x" />
-              </xAxis>
-              <yAxis>
-                <NumberAxis fx:id="y" side="LEFT" />
-              </yAxis>
-            </BarChart>
-          </content>
+               <content>
+                  <AnchorPane prefHeight="200.0" prefWidth="200.0">
+                     <children>
+                        <PieChart fx:id="pieChart00" prefHeight="979.0" prefWidth="1280.0" />
+                     </children>
+                  </AnchorPane>
+               </content>
         </Tab>
-            <Tab style="-fx-background-color: #92b9b9;" text="PierChart">
+            <Tab style="-fx-background-color: #92b9b9;" text="Idioma mas frequente en peliculas">
               <content>
-                <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="1075.0" />
+                <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="1075.0">
+                     <children>
+                        <PieChart fx:id="pieChart01" prefHeight="981.0" prefWidth="1280.0" />
+                     </children></AnchorPane>
               </content>
             </Tab>
       </tabs>

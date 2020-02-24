@@ -1,8 +1,9 @@
 # ExerciciJavaFX
 
 Fet per Adrián García y Pratik Kummar
-### Com Executa la aplicació
+Enllaç de descarrega a l'apartat Release.
 
+### Com Executa la aplicació
 
 > Només cal executar:
 

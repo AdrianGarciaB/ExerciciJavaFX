@@ -1,7 +1,7 @@
 # ExerciciJavaFX
 
 Fet per Adrián García y Pratik Kummar
-Enllaç de descarrega a l'apartat Release.
+> Enllaç de descarrega a l'apartat Release.
 
 ### Com Executa la aplicació
 

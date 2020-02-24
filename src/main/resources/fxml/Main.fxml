@@ -196,7 +196,7 @@
                                                       <Insets left="40.0" top="11.0" />
                                                    </HBox.margin>
                                                 </TextField>
-                                                <Button alignment="CENTER_RIGHT" mnemonicParsing="false" prefHeight="27.0" prefWidth="39.0" text="🔍">
+                                                <Button alignment="CENTER_RIGHT" mnemonicParsing="false" prefHeight="27.0" prefWidth="29.0" text="🔍">
                                                    <HBox.margin>
                                                       <Insets left="10.0" top="11.0" />
                                                    </HBox.margin>
